@@ -1,0 +1,15 @@
+.DS_Store
+
+# Utility Ignore Patterns
+*.old
+.ignore/
+
+# Ignore Files by Type
+.map
+.png
+.jpg
+.jpeg
+.gif
+.svg
+.psd
+.ai
