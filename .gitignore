@@ -4,6 +4,9 @@
 *.old
 .ignore/
 
+# Ignore Asset Directories
+img/
+
 # Ignore Files by Type
 .map
 .png
