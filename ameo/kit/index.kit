@@ -12,15 +12,22 @@
 <body link="<!--$ameoBrown-->">
 <table class="body" width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
-	<td>
-		<table class="section header" <!--$sectionTableAttributes-->>
+	<td class="section header">
+		<table class="container" <!--$containerTableAttributes--> height="20" style="height: 20px;">
 <!-- @include page/header.kit -->
 		</table>
 	</td>
 </tr>
-<tr id="templates">
-	<td>
-		<table class="section main" <!--$sectionTableAttributes-->>
+<tr>
+	<td class="section nav">
+		<table class="container" <!--$containerTableAttributes--> height="20" style="height: 20px;">
+<!-- @include page/nav.kit -->
+		</table>
+	</td>
+</tr>
+<tr>
+	<td class="section main">
+		<table class="container" <!--$containerTableAttributes--> height="20" style="height: 20px;">
 			<repeater label="Banner">
 <!-- @include template/banner.kit -->
 			</repeater>
@@ -43,8 +50,8 @@
 	</td>
 </tr><!-- /#templates -->
 <tr>
-	<td>
-		<table class="section footer" <!--$sectionTableAttributes-->>
+	<td class="section footer">
+		<table class="container" <!--$containerTableAttributes--> height="20" style="height: 20px;">
 <!-- @include page/footer.kit -->
 		</table>
 	</td>
