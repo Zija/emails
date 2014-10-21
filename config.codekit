@@ -2,14 +2,170 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18027",
 "files": {
-	"\/ameo\/kit\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
+	"\/ameo\/kit\/img\/footer-resources.png": {
+		"fileType": 32768,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"initialSize": 1508,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-resources.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-resources.png",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/footer-share-email.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1553,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-share-email.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-share-email.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/footer-support.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1434,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-support.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-support.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/heading-ameo-news.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2301,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/heading-ameo-news.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/heading-ameo-news.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/icon-facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1611,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-facebook.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/icon-instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1615,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-instagram.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/icon-pinterest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1790,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-pinterest.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/icon-rss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1776,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-rss.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-rss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/icon-twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1677,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-twitter.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4447,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/logo.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/nav-ameodifference.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1669,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-ameodifference.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-ameodifference.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/nav-mediacenter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1598,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-mediacenter.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-mediacenter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/nav-opportunity.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1532,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-opportunity.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-opportunity.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/nav-products.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1502,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-products.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-products.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/kit\/img\/zijacorp-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2365,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/zijacorp-logo.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/zijacorp-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/ameo\/kit\/index.kit": {
 		"fileType": 2048,
@@ -170,15 +326,6 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/ameo\/kit\/template\/plain-4_2.kit",
 		"outputAbbreviatedPath": "\/ameo\/kit\/template\/plain-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/variables.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/variables.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/variables.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
