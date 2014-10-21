@@ -38,12 +38,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/kit\/page\/nav.kit": {
+	"\/ameo\/kit\/page\/style.kit": {
 		"fileType": 2048,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/page\/nav.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/page\/nav.html",
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/page\/style.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/page\/style.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
