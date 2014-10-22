@@ -7,14 +7,15 @@ body { margin: 0; padding: 0; background-color: <!--$white-->; font-family: "Hel
 a { color: <!--$ameoBrown-->; text-decoration: none; }
 <!-- @c! SECTIONS -->
 .section {}
+.container { padding: <!--$sectionPaddingV-->px <!--$sectionPaddingH-->px; }
 .header { background-color: <!--$ameoPink -->; font-size: <!--$headerFontSize-->; }
-.header-link {}
+.header .container { padding: <!--$sectionPaddingH-->px <!--$sectionPaddingH-->px; }
+.header-link { text-align: right; }
 .nav    { background-color: <!--$ameoTan  -->; }
 .main   {}
 .footer { background-color: <!--$ameoBeige-->; }
 .links {}
 .legal {}
-.container { padding: <!--$sectionPaddingV-->px <!--$sectionPaddingH-->px; }
 <!-- @c! UTILITIES -->
 .dont-resize-font { -webkit-text-size-adjust: none; }
 .rule-right { <!--$ruleRight--> }

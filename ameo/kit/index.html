@@ -7,23 +7,24 @@
 body { margin: 0; padding: 0; background-color: #ffffff; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 a { color: #ba6954; text-decoration: none; }
 .section {}
+.container { padding: 30px 20px; }
 .header { background-color: #f8d0c7; font-size: 12px; }
-.header-link {}
+.header .container { padding: 20px 20px; }
+.header-link { text-align: right; }
 .nav    { background-color: #e9e2d7; }
 .main   {}
 .footer { background-color: #f9efeb; }
 .links {}
 .legal {}
-.container { padding: 30px 20px; }
 .dont-resize-font { -webkit-text-size-adjust: none; }
-.rule-right { border-right: 1px solid #000000; }
+.rule-right { padding-right: 10px; border-right: 1px solid #000000; }
 </style>
 </head>
 <body link="#ba6954">
 <table class="body" width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
 	<td class="section header">
-		<table class="container" align="center" cellpadding="0" cellspacing="0" border="0" width="600" height="20" style="height: 20px; padding: 30px 20px;">
+		<table class="container" align="center" cellpadding="0" cellspacing="0" border="0" width="600" height="74" style="height: 74px; padding: 20px 20px;">
 			<tr>
 				<td width="32">
 					<a href="#"><img src="img/icon-facebook.png"  alt="Find Améo on Facebook" width="23" height="23" /></a>
@@ -37,11 +38,11 @@ a { color: #ba6954; text-decoration: none; }
 				<td width="32">
 					<a href="#"><img src="img/icon-pinterest.png" alt="Follow Améo on Pinterest" width="23" height="23" /></a>
 				</td>
-				<td width="300" id="logo" align="center">
+				<td align="center">
 					<a href="http://www.ameo.com/"><img src="img/logo.png" alt="logo" width="148" height="37" /></a>
 				</td>
-				<td width="86" class="header-link rule-right" style="border-right: 1px solid #000000;"><a href="#">Events</a></td>
-				<td width="86" class="header-link"><webversion>View In Browser</webversion></td>
+				<td width="56" align="right" class="header-link rule-right" style="padding-right: 10px; border-right: 1px solid #000000;"><a href="#">Events</a></td>
+				<td width="96" align="right" class="header-link"><webversion>View In Browser</webversion></td>
 			</tr>
 		</table>
 	</td>
