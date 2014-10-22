@@ -11,35 +11,35 @@
 <!-- @include page/style.kit -->
 </head>
 <body link="<!--$ameoBrown-->">
-<table class="body" width="100%" cellpadding="0" cellspacing="0" border="0">
+<table class="body" width="100%" <!--$tableReset-->>
 <tr>
-	<td class="section header">
-		<table class="container" height="<!--$headerHeight-->" <!--$containerTableAttributes--> style="height: <!--$headerHeight-->px;">
+<td class="section header">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$headerHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$headerHeight-->px;">
 <!-- @include page/header.kit -->
-		</table>
-	</td>
+	</table><!-- /.container -->
+</td>
 </tr>
 <tr>
-	<td class="section nav">
-		<table class="container" height="<!--$navHeight-->" <!--$containerTableAttributes--> style="height: <!--$navHeight-->px;">
+<td class="section nav">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$navHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$navHeight-->px;">
 <!-- @include page/nav.kit -->
-		</table>
-	</td>
+	</table><!-- /.container -->
+</td>
 </tr>
 <tr>
-	<td class="section hero">
-		<table class="container" height="<!--$heroHeight-->" <!--$containerTableAttributes--> style="height: <!--$heroHeight-->px;">
-			<repeater label="Banner">
+<td class="section hero">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$heroHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$heroHeight-->px;">
+<repeater label="Hero Content (White Background)">
 <!-- @include template/banner.kit -->
 <!-- @include template/content-heading.kit -->
-			</repeater>
-		</table>
-	</td>
+</repeater>
+	</table><!-- /.container -->
+</td>
 </tr>
 <tr>
-	<td class="section main">
-		<table class="container" height="<!--$mainHeight-->" <!--$containerTableAttributes--> style="height: <!--$mainHeight-->px;">
-			<repeater label="Content">
+<td class="section main">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$mainHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$mainHeight-->px;">
+<repeater label="Main Content">
 <!-- @include template/feature-2_4.kit -->
 <!-- @include template/feature-3_3.kit -->
 <!-- @include template/feature-4_2.kit -->
@@ -52,16 +52,16 @@
 <!-- @include template/gutterless-2_4.kit -->
 <!-- @include template/gutterless-3_3.kit -->
 <!-- @include template/gutterless-4_2.kit -->
-			</repeater>
-		</table>
-	</td>
+</repeater>
+	</table><!-- /.container -->
+</td>
 </tr><!-- /#templates -->
 <tr>
-	<td class="section footer">
-		<table class="container" height="<!--$footerHeight-->" <!--$containerTableAttributes--> style="height: <!--$footerHeight-->px;">
+<td class="section footer">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$footerHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$footerHeight-->px;">
 <!-- @include page/footer.kit -->
-		</table>
-	</td>
+	</table><!-- /.container -->
+</td>
 </tr>
 </table>
 </body>
