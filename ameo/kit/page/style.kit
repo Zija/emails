@@ -3,11 +3,12 @@
 -->
 <style type="text/css">
 <!-- @c! GLOBAL -->
-body { margin: 0; padding: 0; background-color: <!--$white-->; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+ body { margin: 0; padding: 0; background-color: <!--$white-->; font-family: <!--$fontStack-->; }
+.body { margin: 0; padding: 0; background-color: <!--$white-->; font-family: <!--$fontStack-->; }
 a { color: <!--$ameoBrown-->; text-decoration: none; }
 <!-- @c! SECTIONS -->
 .section {}
-.container {}
+.container { width: <!--$containerWidth-->px; }
 .content { <!--$contentPadding--> }
 .header { background-color: <!--$ameoPink -->; font-size: <!--$headerFontSize-->; }
 	.header .container { height: <!--$headerHeight-->px; }
@@ -17,8 +18,8 @@ a { color: <!--$ameoBrown-->; text-decoration: none; }
 .main   { background-color: <!--$ameoTan  -->; }
 .footer { background-color: <!--$ameoBeige-->; }
 .links {}
-.legal {}
+.legal { background-color: <!--$ameoBrown-->; }
 <!-- @c! UTILITIES -->
-.dont-resize-font { -webkit-text-size-adjust: none; }
+.lock-font-size { -webkit-text-size-adjust: none; }
 .rule-right { <!--$ruleRight--> }
 </style>
