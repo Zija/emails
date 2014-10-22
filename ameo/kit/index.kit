@@ -14,24 +14,30 @@
 <table class="body" width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
 	<td class="section header">
-		<table class="container" <!--$containerTableAttributes--> height="74" style="height: 74px; padding: <!--$sectionPaddingH-->px <!--$sectionPaddingH-->px;">
+		<table class="container" height="<!--$headerHeight-->" <!--$containerTableAttributes--> style="height: <!--$headerHeight-->px;">
 <!-- @include page/header.kit -->
 		</table>
 	</td>
 </tr>
 <tr>
 	<td class="section nav">
-		<table class="container" <!--$containerTableAttributes--> height="20" style="height: 20px; padding: <!--$sectionPaddingV-->px <!--$sectionPaddingH-->px;">
+		<table class="container" height="<!--$navHeight-->" <!--$containerTableAttributes--> style="height: <!--$navHeight-->px;">
 <!-- @include page/nav.kit -->
 		</table>
 	</td>
 </tr>
 <tr>
-	<td class="section main">
-		<table class="container" <!--$containerTableAttributes--> height="20" style="height: 20px; padding: <!--$sectionPaddingV-->px <!--$sectionPaddingH-->px;">
+	<td class="section hero">
+		<table class="container" height="<!--$heroHeight-->" <!--$containerTableAttributes--> style="height: <!--$heroHeight-->px;">
 			<repeater label="Banner">
 <!-- @include template/banner.kit -->
 			</repeater>
+		</table>
+	</td>
+</tr>
+<tr>
+	<td class="section main">
+		<table class="container" height="<!--$mainHeight-->" <!--$containerTableAttributes--> style="height: <!--$mainHeight-->px;">
 			<repeater label="Content">
 <!-- @include template/content-heading.kit -->
 <!-- @include template/feature-2_4.kit -->
@@ -52,7 +58,7 @@
 </tr><!-- /#templates -->
 <tr>
 	<td class="section footer">
-		<table class="container" <!--$containerTableAttributes--> height="20" style="height: 20px;">
+		<table class="container" height="<!--$footerHeight-->" <!--$containerTableAttributes--> style="height: <!--$footerHeight-->px;">
 <!-- @include page/footer.kit -->
 		</table>
 	</td>
