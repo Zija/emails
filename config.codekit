@@ -239,15 +239,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/kit\/template\/content-heading.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/content-heading.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/content-heading.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/ameo\/kit\/template\/feature-2_4.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -317,6 +308,15 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/ameo\/kit\/template\/gutterless-4_2.kit",
 		"outputAbbreviatedPath": "\/ameo\/kit\/template\/gutterless-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/template\/heading.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/template\/heading.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/template\/heading.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
