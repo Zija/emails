@@ -2,46 +2,46 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18027",
 "files": {
-	"\/ameo\/kit\/img\/footer-resources.png": {
+	"\/ameo\/kit\/img\/footer-en-resources.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1508,
-		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-resources.png",
-		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-resources.png",
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-resources.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-resources.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/kit\/img\/footer-share-email.png": {
+	"\/ameo\/kit\/img\/footer-en-share.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1553,
-		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-share-email.png",
-		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-share-email.png",
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-share.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-share.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/kit\/img\/footer-support.png": {
+	"\/ameo\/kit\/img\/footer-en-support.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1434,
-		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-support.png",
-		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-support.png",
+		"initialSize": 1449,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-support.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-support.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/kit\/img\/heading-ameo-news.png": {
+	"\/ameo\/kit\/img\/heading-en-ameonews.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2301,
-		"inputAbbreviatedPath": "\/ameo\/kit\/img\/heading-ameo-news.png",
-		"outputAbbreviatedPath": "\/ameo\/kit\/img\/heading-ameo-news.png",
+		"initialSize": 2270,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/heading-en-ameonews.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/heading-en-ameonews.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -112,46 +112,46 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/kit\/img\/nav-ameodifference.png": {
+	"\/ameo\/kit\/img\/nav-en-ameodifference.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1669,
-		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-ameodifference.png",
-		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-ameodifference.png",
+		"initialSize": 1476,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-ameodifference.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-ameodifference.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/kit\/img\/nav-mediacenter.png": {
+	"\/ameo\/kit\/img\/nav-en-mediacenter.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1598,
-		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-mediacenter.png",
-		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-mediacenter.png",
+		"initialSize": 1437,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-mediacenter.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-mediacenter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/kit\/img\/nav-opportunity.png": {
+	"\/ameo\/kit\/img\/nav-en-opportunity.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1532,
-		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-opportunity.png",
-		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-opportunity.png",
+		"initialSize": 1405,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-opportunity.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-opportunity.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/kit\/img\/nav-products.png": {
+	"\/ameo\/kit\/img\/nav-en-products.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1502,
-		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-products.png",
-		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-products.png",
+		"initialSize": 1354,
+		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-products.png",
+		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-products.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
