@@ -185,6 +185,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/ameo\/kit\/lang\/en.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/lang\/en.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/lang\/en.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/ameo\/kit\/page\/footer.kit": {
 		"fileType": 2048,
 		"ignore": 1,
