@@ -2,11 +2,20 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18027",
 "files": {
+	"\/ameo\/kit\/base.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/base.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/base.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/ameo\/kit\/img\/footer-en-resources.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1508,
+		"initialSize": 1386,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-resources.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-resources.png",
 		"outputPathIsOutsideProject": 0,
@@ -17,7 +26,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1553,
+		"initialSize": 1447,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-share.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-share.png",
 		"outputPathIsOutsideProject": 0,
@@ -28,7 +37,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1449,
+		"initialSize": 1320,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-support.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/footer-en-support.png",
 		"outputPathIsOutsideProject": 0,
@@ -39,7 +48,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2270,
+		"initialSize": 1950,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/heading-en-ameonews.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/heading-en-ameonews.png",
 		"outputPathIsOutsideProject": 0,
@@ -50,7 +59,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1611,
+		"initialSize": 1356,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-facebook.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-facebook.png",
 		"outputPathIsOutsideProject": 0,
@@ -61,7 +70,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1615,
+		"initialSize": 1330,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-instagram.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-instagram.png",
 		"outputPathIsOutsideProject": 0,
@@ -72,7 +81,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1790,
+		"initialSize": 1387,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-pinterest.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-pinterest.png",
 		"outputPathIsOutsideProject": 0,
@@ -83,7 +92,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1776,
+		"initialSize": 1371,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-rss.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-rss.png",
 		"outputPathIsOutsideProject": 0,
@@ -94,7 +103,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1677,
+		"initialSize": 1355,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/icon-twitter.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/icon-twitter.png",
 		"outputPathIsOutsideProject": 0,
@@ -105,7 +114,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4447,
+		"initialSize": 3603,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/logo.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
@@ -116,7 +125,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1476,
+		"initialSize": 1603,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-ameodifference.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-ameodifference.png",
 		"outputPathIsOutsideProject": 0,
@@ -127,7 +136,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1437,
+		"initialSize": 1456,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-mediacenter.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-mediacenter.png",
 		"outputPathIsOutsideProject": 0,
@@ -138,7 +147,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1405,
+		"initialSize": 1473,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-opportunity.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-opportunity.png",
 		"outputPathIsOutsideProject": 0,
@@ -149,7 +158,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1354,
+		"initialSize": 1376,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-products.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/nav-en-products.png",
 		"outputPathIsOutsideProject": 0,
@@ -160,7 +169,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2365,
+		"initialSize": 2042,
 		"inputAbbreviatedPath": "\/ameo\/kit\/img\/zijacorp-logo.png",
 		"outputAbbreviatedPath": "\/ameo\/kit\/img\/zijacorp-logo.png",
 		"outputPathIsOutsideProject": 0,
@@ -185,19 +194,190 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/kit\/lang\/en.kit": {
+	"\/ameo\/kit\/lang-en.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/lang\/en.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/lang\/en.html",
+		"inputAbbreviatedPath": "\/ameo\/kit\/lang-en.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/lang-en.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/lang-es.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/lang-es.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/lang-es.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/lang-ja.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/lang-ja.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/lang-ja.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/banner.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/banner.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/banner.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/default-2_2_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/default-2_2_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/default-2_2_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/default-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/default-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/default-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/default-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/default-3_3.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/default-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/default-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/default-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/default-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-3_3.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/heading.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/heading.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/heading.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-2_4-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-2_4-img_left.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-2_4-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-3_3-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-3_3-img_left.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-3_3-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-4_2-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-4_2-img_left.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-4_2-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/twoimg-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/twoimg-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-3_3.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/twoimg-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-4_2.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/ameo\/kit\/page\/footer.kit": {
 		"fileType": 2048,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/ameo\/kit\/page\/footer.kit",
 		"outputAbbreviatedPath": "\/ameo\/kit\/page\/footer.html",
 		"outputPathIsOutsideProject": 0,
@@ -206,7 +386,7 @@
 	"\/ameo\/kit\/page\/header.kit": {
 		"fileType": 2048,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/ameo\/kit\/page\/header.kit",
 		"outputAbbreviatedPath": "\/ameo\/kit\/page\/header.html",
 		"outputPathIsOutsideProject": 0,
@@ -221,147 +401,66 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/kit\/page\/style.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/page\/style.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/page\/style.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/banner.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/banner.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/banner.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/feature-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/feature-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/feature-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/feature-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/feature-3_3.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/feature-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/feature-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/feature-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/feature-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/feature-triple-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/feature-triple-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/feature-triple-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/feature-triple-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/feature-triple-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/feature-triple-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/gutterless-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/gutterless-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/gutterless-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/gutterless-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/gutterless-3_3.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/gutterless-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/gutterless-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/gutterless-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/gutterless-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/heading.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/heading.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/heading.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/plain-2_2_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/plain-2_2_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/plain-2_2_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/plain-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/plain-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/plain-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/plain-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/plain-3_3.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/plain-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/template\/plain-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/kit\/template\/plain-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/template\/plain-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/ameo\/kit\/variables.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/ameo\/kit\/variables.kit",
 		"outputAbbreviatedPath": "\/ameo\/kit\/variables.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/template\/en\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/template\/en\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/template\/en\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/template\/en\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/template\/en\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/template\/es\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/template\/es\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/template\/es\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/template\/es\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/template\/es\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/template\/ja\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/template\/ja\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/template\/ja\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/template\/ja\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/template\/ja\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1631,7 +1730,7 @@
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 1,
-	"skippedItemsString": "node_modules, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-JA, \/drinklifein.old\/templates\/dummy, \/drinklifein.old\/templates\/_old-images, _logs, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-EN, .hg, _cache, log, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-ES, logs, cache, .svn, \/drinklifein.old\/templates\/_new-assets, .git, \/drinklifein.old\/_sean's-work\/emails, \/drinklifein.old\/templates\/old",
+	"skippedItemsString": "node_modules, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-JA, \/drinklifein.old\/templates\/dummy, \/drinklifein.old\/templates\/_old-images, _logs, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-EN, .hg, _cache, log, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-ES, logs, cache, .svn, \/drinklifein.old\/templates\/_new-assets, .git, \/drinklifein.old\/_sean's-work\/emails, \/ameo\/kit\/template\/feature.old, \/drinklifein.old\/templates\/old",
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
