@@ -25,8 +25,13 @@ tr, td { margin: 0; padding: 0; }
 .main { background-color: #e9e2d7; }
 	.main td { vertical-align: top; }
 .footer { background-color: #f9efeb; }
-	.links {}
-	.legal { background-color: #ba6954; }
+	.links { line-height: 1.4; }
+		.links .content { padding-top: 30px; padding-bottom: 30px; }
+		.links .content td { padding-left: 20px; padding-right: 20px; vertical-align: top; }
+		.links-heading { margin-bottom: 10px; }
+		.links-list { list-style-type: none; margin: 0; padding: 0; }
+	.legal { font-size: 12px; background-color: #ba6954; }
+	.legal, .legal a { color: #ffffff; }
 .item  { padding: 10px; }
 	.item-caption { font-size: 13px; }
 	.item-heading { font-size: 14px; }
@@ -469,13 +474,30 @@ tr, td { margin: 0; padding: 0; }
 	<td>
 		<table class="content" align="center" cellpadding="0" cellspacing="0" border="0"  width="560" height="40" style="width: 560px; height: 40px; padding-top: 30px; padding-bottom: 30px;">
 			<tr>
-				<td>
-					&nbsp;
+				<td width="187" class="rule-right">
+					<img class="links-heading" src="img/footer-en-support.png" alt="footer-en-support" width="70" height="15" />
+					<ul class="links-list">
+						<li><a href="#">Contact</a></li>
+						<li><a href="#">Privacy Policy</a></li>
+						<li><a href="#">Terms of Use</a></li>
+						<li><unsubscribe>Unsubscribe</unsubscribe></li>
+					</ul>
 				</td>
-			</tr>
-			<tr>
-				<td>
-					&nbsp;
+				<td width="187" class="rule-right">
+					<img class="links-heading" src="img/footer-en-resources.png" alt="footer-en-resources" width="89" height="15" />
+					<ul class="links-list">
+						<li><a href="#">Back Office Login</a></li>
+						<li><a href="#">Media Center</a></li>
+						<li><a href="#">Enroll</a></li>
+						<li><a href="#">Compensation Plan</a></li>
+					</ul>
+				</td>
+				<td width="187">
+					<img class="links-heading" src="img/footer-en-share.png" alt="footer-en-share" width="102" height="15" />
+					<br>
+					<fblike style="text-decoration: none;" title="Like this email on Facebook"><img src="img/icon-facebook.png" alt="Like this email on Facebook" width="23" height="23" /></fblike>
+					<tweet  style="text-decoration: none;" title="Tweet about this email"><img src="img/icon-twitter.png"  alt="Tweet about this email" width="23" height="23" /></tweet>
+					<p>This is an automated email. Do not reply to this email address, which is not monitored.</p>
 				</td>
 			</tr>
 		</table>
@@ -485,9 +507,11 @@ tr, td { margin: 0; padding: 0; }
 	<td>
 		<table class="content" align="center" cellpadding="0" cellspacing="0" border="0"  width="560" height="40" style="width: 560px; height: 40px; padding-top: 20px; padding-bottom: 20px;">
 			<tr>
-				<td>
-					&nbsp;
+				<td class="lock-font-size">
+					<a href="http://www.zijainternational.com" style="text-transform: uppercase;"><img src="img/logo-zijacorp.png" width="52" height="51" style="margin-right: 15px; vertical-align: middle;" /> ZijaInternational.com</a>
 				</td>
+				<td class="lock-font-size" align="right" style="text-align: right; text-transform: uppercase;">
+					&copy;2014 Zija International. All rights reserved.				</td>
 			</tr>
 		</table>
 	</td>
