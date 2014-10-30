@@ -8,11 +8,12 @@
 img/
 
 # Ignore Files by Type
-.map
-.png
-.jpg
-.jpeg
-.gif
-.svg
-.psd
-.ai
+*.map
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.psd
+*.ai
+*.zip
