@@ -1,13 +1,18 @@
 <!-- @c!
 	Améo | gutterless-4_2.kit
 -->
+<!-- @c! inherit templateHeight -->
+<!-- @c! inherit imgHeight -->
 	<layout label="Full Bleed – 2:1 |––––|––|">
 		<tr>
-		<td width="540" height="<!--$templateHeight-->" style="height: <!--$templateHeight-->px;">
+		<td width="<!--$containerWidth-->" height="<!--$templateHeight-->" style="height: <!--$templateHeight-->px;">
 			<table class="content" width="<!--$contentWidth-->"height="<!--$templateHeight-->" <!--$tableReset--> style="width: <!--$contentWidth-->px; height: <!--$templateHeight-->px; <!--$contentPadding-->">
 				<tr>
-					<td>
-						<code>Full Bleed – 2:1 |––––|––|</code>
+					<td class="item padless-h" width="<!--$width66-->" style="<!--$item--><!--$padlessH-->">
+						<img label="1 – Image <!--$width66-->x<!--$imgHeight-->" src="http://placehold.it/<!--$width66-->x<!--$imgHeight-->" width="<!--$width66-->" style="width: <!--$width66-->px; height: <!--$imgHeight-->px;" editable>
+					</td>
+					<td class="item padless-h" width="<!--$width33-->" style="<!--$item--><!--$padlessH-->">
+						<img label="2 – Image <!--$width33-->x<!--$imgHeight-->" src="http://placehold.it/<!--$width33-->x<!--$imgHeight-->" width="<!--$width33-->" style="width: <!--$width33-->px; height: <!--$imgHeight-->px;" editable>
 					</td>
 				</tr>
 			</table>
