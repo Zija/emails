@@ -2,39 +2,51 @@
 	Améo | style.kit
 -->
 <style type="text/css">
+<!-- @c! TEMP -->
+code { white-space: nowrap; text-overflow: ellipsis; }
 <!-- @c! GLOBAL -->
- body { margin: 0; padding: 0; background-color: <!--$white-->; font-family: <!--$fontStack-->; }
-.body { margin: 0; padding: 0; background-color: <!--$white-->; font-family: <!--$fontStack-->; }
-img { margin: 0; padding: 0; }
+ body { margin: 0; padding: 0; background-color: <!--$white-->; font-family: <!--$fontStack-->; font-size: 13px }
+.body { margin: 0; padding: 0; background-color: <!--$white-->; font-family: <!--$fontStack-->; font-size: 13px }
+h1, h2, h3, h4, h5, h6 { margin-top: 12px; margin-bottom: 6px; }
+p { margin-top: 6px; margin-bottom: 0; }
 a { color: <!--$black-->; text-decoration: none; }
+img { margin: 0; padding: 0; }
+table { margin: 0 auto; padding: 0; }
+tr, td { margin: 0; padding: 0; }
 <!-- @c! SECTIONS -->
 .section {}
 .container { width: <!--$containerWidth-->px; }
-.content { <!--$contentPadding--> }
-.header { font-size: <!--$headerFontSize-->; background-color: <!--$ameoPink -->; }
+.content { <!--$contentPadding--> vertical-align: top; }
+.header { font-size: <!--$headerFontSize-->; background-color: <!--$ameoPink-->; }
 	.header .container { height: <!--$headerHeight-->px; }
 	.header-link { text-align: right; }
-.nav { background-color: <!--$ameoTan  -->; }
-	.nav-highlight { padding-left: 10px; padding-right: 10px; background-color: <!--$ameoGold -->; }
+.nav { background-color: <!--$ameoTan-->; }
+	.nav-highlight { padding-left: 10px; padding-right: 10px; background-color: <!--$ameoGold-->; }
 	.nav-img { <!--$navImgPadding--> }
 .hero {}
-.main { background-color: <!--$ameoTan  -->; }
+.main { background-color: <!--$ameoTan-->; }
+	.main td { vertical-align: top; }
 .footer { background-color: <!--$ameoBeige-->; }
 	.links {}
-	.legal { background-color: <!--$ameoBrown-->; }
+	.legal { background-color: <!--$ameoRed-->; }
 <!-- @c! TEMPLATES -->
 .banner { <!--$bannerPadding--> }
+.item  { <!--$item--> }
+	.item-caption { font-size: 13px; }
+	.item-heading { font-size: 14px; }
 <!-- @c! UTILITIES -->
 .lock-font-size { -webkit-text-size-adjust: none; }
 .rule-right { <!--$ruleRight--> }
 .corner-rounded { border-top-left-radius: 20px; }
 .extra-padding { <!--$extraPadding--> }
-.padless { <!--$padless--> }
-.white { background-color: <!--$white    -->; }
-.black { background-color: <!--$black    -->; }
-.brown { background-color: <!--$ameoBrown-->; }
-.pink  { background-color: <!--$ameoPink -->; }
-.gold  { background-color: <!--$ameoGold -->; }
-.tan   { background-color: <!--$ameoTan  -->; }
-.beige { background-color: <!--$ameoBeige-->; }
+.padless-v { <!--$padlessV--> }
+.padless-h { <!--$padlessH--> }
+.white   { background-color: <!--$white      -->; }
+.black   { background-color: <!--$black      -->; }
+.brown   { background-color: <!--$ameoRed    -->; }
+.pink    { background-color: <!--$ameoPink   -->; }
+.gold    { background-color: <!--$ameoGold   -->; }
+.tan     { background-color: <!--$ameoTan    -->; }
+.beige   { background-color: <!--$ameoBeige  -->; }
+/* .brown80 { background-color: <!--$ameoBrown80-->; } */
 </style>
