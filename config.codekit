@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "18027",
+"creatorBuild": "18270",
 "files": {
 	"\/ameo\/img\/footer-en-resources.png": {
 		"fileType": 32768,
@@ -987,6 +987,222 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/zijacorp\/img\/footer-en-copyright.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2238,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-copyright.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-copyright.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-en-resources.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1386,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-resources.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-resources.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-en-share.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1447,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-share.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-share.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-en-support.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1320,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-support.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-support.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-zijacorpurl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1444,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-zijacorpurl.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-zijacorpurl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-en-browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1555,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-en-browser.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-en-browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-en-events.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1310,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-en-events.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-en-events.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/heading-en-zijacorpnews.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2454,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/heading-en-zijacorpnews.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/heading-en-zijacorpnews.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1356,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-facebook.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1330,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-instagram.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-pinterest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1387,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-pinterest.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-rss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1371,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-rss.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-rss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1355,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-twitter.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2356,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/logo-white.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3239,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/logo.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/nav-en-company.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1543,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/nav-en-company.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/nav-en-company.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/nav-en-mediacenter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1456,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/nav-en-mediacenter.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/nav-en-mediacenter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/nav-en-opportunity.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1473,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/nav-en-opportunity.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/nav-en-opportunity.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/kit\/base.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/base.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/base.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/zijacorp\/kit\/index.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -996,10 +1212,172 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/zijacorp\/kit\/lang-en.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang-en.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang-en.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/lang-es.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang-es.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang-es.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/lang-ja.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang-ja.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang-ja.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/banner.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/banner.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/banner.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/default-2_2_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-2_2_2.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-2_2_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/default-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-2_4.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/default-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-3_3.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/default-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-4_2.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/heading.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/heading.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/heading.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-2_4-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-2_4-img_left.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-2_4-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-2_4-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-2_4-img_right.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-2_4-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-3_3-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-3_3-img_left.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-3_3-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-3_3-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-3_3-img_right.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-3_3-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-4_2-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-4_2-img_left.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-4_2-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-4_2-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-4_2-img_right.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-4_2-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/twoimg-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-2_4.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/twoimg-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-3_3.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/twoimg-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-4_2.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/zijacorp\/kit\/page\/footer.kit": {
 		"fileType": 2048,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/footer.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/footer.html",
 		"outputPathIsOutsideProject": 0,
@@ -1008,7 +1386,7 @@
 	"\/zijacorp\/kit\/page\/header.kit": {
 		"fileType": 2048,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/header.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/header.html",
 		"outputPathIsOutsideProject": 0,
@@ -1017,135 +1395,81 @@
 	"\/zijacorp\/kit\/page\/nav.kit": {
 		"fileType": 2048,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/template\/banner.kit": {
+	"\/zijacorp\/kit\/page\/style.kit": {
 		"fileType": 2048,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/banner.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/banner.html",
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/style.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/style.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/template\/content-heading.kit": {
+	"\/zijacorp\/kit\/variables.kit": {
 		"fileType": 2048,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/content-heading.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/content-heading.html",
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/variables.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/variables.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/template\/feature-2_4.kit": {
-		"fileType": 2048,
+	"\/zijacorp\/tpl\/en\/index.html": {
+		"fileType": 8192,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-2_4.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-2_4.html",
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/tpl\/en\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/template\/feature-3_3.kit": {
+	"\/zijacorp\/tpl\/en\/index.kit": {
 		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-3_3.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-3_3.html",
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/tpl\/en\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/tpl\/en\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/template\/feature-4_2.kit": {
-		"fileType": 2048,
+	"\/zijacorp\/tpl\/es\/index.html": {
+		"fileType": 8192,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-4_2.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-4_2.html",
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/tpl\/es\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/template\/feature-triple-2_4.kit": {
+	"\/zijacorp\/tpl\/es\/index.kit": {
 		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-triple-2_4.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-triple-2_4.html",
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/tpl\/es\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/tpl\/es\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/template\/feature-triple-4_2.kit": {
-		"fileType": 2048,
+	"\/zijacorp\/tpl\/ja\/index.html": {
+		"fileType": 8192,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-triple-4_2.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/feature-triple-4_2.html",
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/tpl\/ja\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/template\/gutterless-2_4.kit": {
+	"\/zijacorp\/tpl\/ja\/index.kit": {
 		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/gutterless-2_4.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/gutterless-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/kit\/template\/gutterless-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/gutterless-3_3.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/gutterless-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/kit\/template\/gutterless-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/gutterless-4_2.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/gutterless-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/kit\/template\/plain-2_2_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/plain-2_2_2.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/plain-2_2_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/kit\/template\/plain-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/plain-2_4.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/plain-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/kit\/template\/plain-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/plain-3_3.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/plain-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/kit\/template\/plain-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/template\/plain-4_2.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/template\/plain-4_2.html",
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/tpl\/ja\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/tpl\/ja\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
