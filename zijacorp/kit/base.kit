@@ -19,25 +19,21 @@
 </td>
 </tr>
 <tr>
-<td class="section nav">
-	<table class="container" width="<!--$containerWidth-->" height="<!--$navHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$navHeight-->px;">
-<!-- @include page/nav.kit -->
-	</table><!-- /.container -->
-</td>
-</tr>
-<tr>
 <td class="section hero">
 	<table class="container" width="<!--$containerWidth-->" height="<!--$heroHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$heroHeight-->px;">
 <repeater label="Hero Content (White Background)">
 <!-- @include layout/banner.kit -->
-<!-- @include layout/heading.kit -->
 </repeater>
+		<tr><td class="green-dark" height="10"></td></tr>
 	</table><!-- /.container -->
 </td>
 </tr>
 <tr>
 <td class="section main">
-	<table class="container extra-padding" width="<!--$containerWidth-->" height="<!--$mainHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$mainHeight-->px; <!--$extraPadding-->">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$mainHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$mainHeight-->px;">
+<repeater label="Heading">
+<!-- @include layout/heading.kit -->
+</repeater>
 <repeater label="Main Content">
 <!-- @include layout/default-2_2_2.kit -->
 <!-- @include layout/default-2_4.kit -->
@@ -54,15 +50,15 @@
 <!-- @include layout/twoimg-4_2.kit -->
 </repeater>
 	</table><!-- /.container -->
-	<table class="container" width="<!--$containerWidth-->" height="5" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: 5px;">
-		<tr><td class="brown" height="5" style="background-color: <!--$ameoRed-->;"></td></tr>
+	<table class="container" width="<!--$containerWidth-->" height="5" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: 5px; margin-top: 30px;">
+		<tr><td class="green-dark" height="5"></td></tr>
 	</table>
 </td>
 </tr>
 <tr>
 <td class="section footer">
 	<table class="container" width="<!--$containerWidth-->" height="<!--$footerHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$footerHeight-->px;">
-		<tr><td class="brown" height="5" style="background-color: <!--$ameoRed-->;"></td></tr>
+		<tr><td class="green-dark" height="5"></td></tr>
 <!-- @include page/footer.kit -->
 	</table><!-- /.container -->
 </td>
