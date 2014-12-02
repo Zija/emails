@@ -1,0 +1,68 @@
+<!-- @c!
+	Zija Corp | News | base.kit
+-->
+<!-- @include variables.kit -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //<!--$t_LANG-->" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="<!--$t_lang-->">
+<head>
+<title>Zija Mail</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- @include page/style.kit -->
+</head>
+<body link="<!--$black-->">
+<table class="body" width="100%" <!--$tableReset-->>
+<tr>
+<td class="section header">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$headerHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$headerHeight-->px;">
+<!-- @include page/header.kit -->
+	</table><!-- /.container -->
+</td>
+</tr>
+<tr>
+<td class="section hero">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$heroHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$heroHeight-->px;">
+<repeater label="Hero Content (White Background)">
+<!-- @include layout/banner.kit -->
+</repeater>
+		<tr><td class="green-dark" height="10"></td></tr>
+	</table><!-- /.container -->
+</td>
+</tr>
+<tr>
+<td class="section main">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$mainHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$mainHeight-->px;">
+<repeater label="Heading">
+<!-- @include layout/heading.kit -->
+</repeater>
+<repeater label="Main Content">
+<!-- @include layout/default-2_2_2.kit -->
+<!-- @include layout/default-2_4.kit -->
+<!-- @include layout/default-3_3.kit -->
+<!-- @include layout/default-4_2.kit -->
+<!-- @include layout/single-2_4-img_left.kit -->
+<!-- @include layout/single-4_2-img_right.kit -->
+<!-- @include layout/single-3_3-img_left.kit -->
+<!-- @include layout/single-3_3-img_right.kit -->
+<!-- @include layout/single-4_2-img_left.kit -->
+<!-- @include layout/single-2_4-img_right.kit -->
+<!-- @include layout/twoimg-2_4.kit -->
+<!-- @include layout/twoimg-3_3.kit -->
+<!-- @include layout/twoimg-4_2.kit -->
+</repeater>
+	</table><!-- /.container -->
+	<table class="container" width="<!--$containerWidth-->" height="5" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: 5px; margin-top: 30px;">
+		<tr><td class="green-dark" height="5"></td></tr>
+	</table>
+</td>
+</tr>
+<tr>
+<td class="section footer">
+	<table class="container" width="<!--$containerWidth-->" height="<!--$footerHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$footerHeight-->px;">
+		<tr><td class="green-dark" height="5"></td></tr>
+<!-- @include page/footer.kit -->
+	</table><!-- /.container -->
+</td>
+</tr>
+</table>
+</body>
+</html>
