@@ -2,170 +2,170 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18270",
 "files": {
-	"\/ameo\/letter\/img\/footer-en-resources.png": {
+	"\/ameo\/img\/footer-en-resources.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1386,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/footer-en-resources.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/footer-en-resources.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/footer-en-resources.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/footer-en-resources.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/footer-en-share.png": {
+	"\/ameo\/img\/footer-en-share.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1447,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/footer-en-share.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/footer-en-share.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/footer-en-share.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/footer-en-share.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/footer-en-support.png": {
+	"\/ameo\/img\/footer-en-support.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1320,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/footer-en-support.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/footer-en-support.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/footer-en-support.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/footer-en-support.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/heading-en-ameonews.png": {
+	"\/ameo\/img\/heading-en-ameonews.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1950,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/heading-en-ameonews.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/heading-en-ameonews.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/heading-en-ameonews.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/heading-en-ameonews.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/icon-facebook.png": {
+	"\/ameo\/img\/icon-facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1356,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/icon-facebook.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/icon-facebook.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-facebook.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/icon-instagram.png": {
+	"\/ameo\/img\/icon-instagram.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1330,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/icon-instagram.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/icon-instagram.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-instagram.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-instagram.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/icon-pinterest.png": {
+	"\/ameo\/img\/icon-pinterest.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1387,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/icon-pinterest.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/icon-pinterest.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-pinterest.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-pinterest.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/icon-rss.png": {
+	"\/ameo\/img\/icon-rss.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1371,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/icon-rss.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/icon-rss.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-rss.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-rss.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/icon-twitter.png": {
+	"\/ameo\/img\/icon-twitter.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1355,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/icon-twitter.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/icon-twitter.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-twitter.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-twitter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/logo-zijacorp.png": {
+	"\/ameo\/img\/logo-zijacorp.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2042,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/logo-zijacorp.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/logo-zijacorp.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/logo-zijacorp.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/logo-zijacorp.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/logo.png": {
+	"\/ameo\/img\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3603,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/logo.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/logo.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/logo.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/nav-en-ameodifference.png": {
+	"\/ameo\/img\/nav-en-ameodifference.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1603,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/nav-en-ameodifference.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/nav-en-ameodifference.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/nav-en-ameodifference.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/nav-en-ameodifference.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/nav-en-mediacenter.png": {
+	"\/ameo\/img\/nav-en-mediacenter.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1456,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/nav-en-mediacenter.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/nav-en-mediacenter.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/nav-en-mediacenter.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/nav-en-mediacenter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/nav-en-opportunity.png": {
+	"\/ameo\/img\/nav-en-opportunity.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1473,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/nav-en-opportunity.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/nav-en-opportunity.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/nav-en-opportunity.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/nav-en-opportunity.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/ameo\/letter\/img\/nav-en-products.png": {
+	"\/ameo\/img\/nav-en-products.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1376,
-		"inputAbbreviatedPath": "\/ameo\/letter\/img\/nav-en-products.png",
-		"outputAbbreviatedPath": "\/ameo\/letter\/img\/nav-en-products.png",
+		"inputAbbreviatedPath": "\/ameo\/img\/nav-en-products.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/nav-en-products.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/ameo\/letter\/kit\/base.kit": {
 		"fileType": 2048,
@@ -227,51 +227,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/banner.kit",
 		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/banner.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/layout\/feature.old\/feature-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/layout\/feature.old\/feature-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-3_3.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/layout\/feature.old\/feature-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/layout\/feature.old\/feature-triple-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-triple-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-triple-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/layout\/feature.old\/feature-triple-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-triple-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/feature.old\/feature-triple-4_2.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -382,171 +337,6 @@
 		"outputAbbreviatedPath": "\/ameo\/letter\/tpl-ja\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/img\/footer-en-resources.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1386,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/footer-en-resources.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/footer-en-resources.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/footer-en-share.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1447,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/footer-en-share.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/footer-en-share.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/footer-en-support.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1320,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/footer-en-support.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/footer-en-support.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/heading-en-ameonews.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1950,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/heading-en-ameonews.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/heading-en-ameonews.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/icon-facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1356,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/icon-facebook.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/icon-facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/icon-instagram.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1330,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/icon-instagram.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/icon-instagram.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/icon-pinterest.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1387,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/icon-pinterest.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/icon-pinterest.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/icon-rss.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1371,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/icon-rss.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/icon-rss.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/icon-twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1355,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/icon-twitter.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/icon-twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/logo-zijacorp.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2042,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/logo-zijacorp.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/logo-zijacorp.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3603,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/logo.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/nav-en-ameodifference.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1603,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/nav-en-ameodifference.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/nav-en-ameodifference.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/nav-en-mediacenter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1456,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/nav-en-mediacenter.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/nav-en-mediacenter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/nav-en-opportunity.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1473,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/nav-en-opportunity.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/nav-en-opportunity.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/ameo\/news\/img\/nav-en-products.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1376,
-		"inputAbbreviatedPath": "\/ameo\/news\/img\/nav-en-products.png",
-		"outputAbbreviatedPath": "\/ameo\/news\/img\/nav-en-products.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
 		},
 	"\/ameo\/news\/kit\/base.kit": {
 		"fileType": 2048,
@@ -1368,203 +1158,203 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/letter\/img\/footer-en-copyright.png": {
+	"\/zijacorp\/img\/brand-ameo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3101,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-ameo.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-ameo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/brand-ripstix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2131,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-ripstix.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-ripstix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/brand-zija.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2794,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-zija.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-zija.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/footer-en-copyright.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2006,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-en-copyright.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-en-copyright.png",
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-copyright.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-copyright.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/footer-en-resources.png": {
+	"\/zijacorp\/img\/footer-en-resources.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1382,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-en-resources.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-en-resources.png",
+		"initialSize": 1386,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-resources.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-resources.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/footer-en-share.png": {
+	"\/zijacorp\/img\/footer-en-share.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1485,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-en-share.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-en-share.png",
+		"initialSize": 1447,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-share.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-share.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/footer-en-support.png": {
+	"\/zijacorp\/img\/footer-en-support.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1316,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-en-support.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-en-support.png",
+		"initialSize": 1320,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-support.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-support.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/footer-zijacorpurl.png": {
+	"\/zijacorp\/img\/footer-zijacorpurl.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1340,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-zijacorpurl.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/footer-zijacorpurl.png",
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-zijacorpurl.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-zijacorpurl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-en-browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1555,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-en-browser.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-en-browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-en-events.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1310,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-en-events.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-en-events.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/heading-en-news.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2757,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/heading-en-news.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/heading-en-news.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/zijacorp\/letter\/img\/header-en-browser.png": {
+	"\/zijacorp\/img\/icon-facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1425,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/header-en-browser.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/header-en-browser.png",
+		"initialSize": 1356,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-facebook.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/header-en-events.png": {
+	"\/zijacorp\/img\/icon-instagram.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1221,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/header-en-events.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/header-en-events.png",
+		"initialSize": 1330,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-instagram.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-instagram.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/heading-en-zijacorpnews.png": {
+	"\/zijacorp\/img\/icon-pinterest.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2179,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/heading-en-zijacorpnews.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/heading-en-zijacorpnews.png",
+		"initialSize": 1387,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-pinterest.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-pinterest.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/icon-facebook.png": {
+	"\/zijacorp\/img\/icon-rss.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1156,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-facebook.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-facebook.png",
+		"initialSize": 1371,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-rss.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-rss.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/icon-instagram.png": {
+	"\/zijacorp\/img\/icon-twitter.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1304,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-instagram.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-instagram.png",
+		"initialSize": 1355,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-twitter.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-twitter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/icon-pinterest.png": {
+	"\/zijacorp\/img\/logo-white.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1358,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-pinterest.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-pinterest.png",
+		"initialSize": 2356,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/logo-white.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/logo-white.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/zijacorp\/letter\/img\/icon-rss.png": {
+	"\/zijacorp\/img\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1374,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-rss.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-rss.png",
+		"initialSize": 3239,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/logo.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zijacorp\/letter\/img\/icon-twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1306,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-twitter.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/icon-twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zijacorp\/letter\/img\/logo-white.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2042,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/logo-white.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/logo-white.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zijacorp\/letter\/img\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2725,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/logo.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zijacorp\/letter\/img\/nav-en-company.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1417,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/nav-en-company.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/nav-en-company.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zijacorp\/letter\/img\/nav-en-mediacenter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1465,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/nav-en-mediacenter.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/nav-en-mediacenter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zijacorp\/letter\/img\/nav-en-opportunity.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1354,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/img\/nav-en-opportunity.png",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/img\/nav-en-opportunity.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/zijacorp\/letter\/kit\/base.kit": {
 		"fileType": 2048,
@@ -1736,204 +1526,6 @@
 		"outputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/img\/footer-en-copyright.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2006,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-en-copyright.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-en-copyright.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/footer-en-resources.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1386,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-en-resources.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-en-resources.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/footer-en-share.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1447,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-en-share.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-en-share.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/footer-en-support.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1320,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-en-support.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-en-support.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/footer-zijacorpurl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1340,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-zijacorpurl.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/footer-zijacorpurl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/header-en-browser.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1555,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/header-en-browser.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/header-en-browser.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/header-en-events.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1310,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/header-en-events.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/header-en-events.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/heading-en-zijacorpnews.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2454,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/heading-en-zijacorpnews.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/heading-en-zijacorpnews.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/icon-facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1356,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-facebook.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/icon-instagram.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1330,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-instagram.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-instagram.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/icon-pinterest.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1387,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-pinterest.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-pinterest.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/icon-rss.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1371,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-rss.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-rss.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/icon-twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1355,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-twitter.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/icon-twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/logo-white.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2356,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/logo-white.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/logo-white.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3239,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/logo.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/nav-en-company.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1543,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/nav-en-company.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/nav-en-company.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/nav-en-mediacenter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1456,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/nav-en-mediacenter.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/nav-en-mediacenter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/zijacorp\/news\/img\/nav-en-opportunity.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1473,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/img\/nav-en-opportunity.png",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/img\/nav-en-opportunity.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
 		},
 	"\/zijacorp\/news\/kit\/base.kit": {
 		"fileType": 2048,
@@ -2840,7 +2432,7 @@
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 1,
-	"skippedItemsString": "node_modules, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-JA, \/drinklifein.old\/templates\/dummy, \/drinklifein.old\/templates\/_old-images, _logs, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-EN, .hg, _cache, log, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-ES, logs, cache, .svn, \/drinklifein.old\/templates\/_new-assets, .git, \/drinklifein.old\/_sean's-work\/emails, \/ameo\/kit\/template\/feature.old, \/drinklifein.old\/templates\/old",
+	"skippedItemsString": "node_modules, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-JA, \/drinklifein.old\/templates\/dummy, \/drinklifein.old\/templates\/_old-images, _logs, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-EN, .hg, _cache, log, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-ES, logs, cache, .svn, \/drinklifein.old\/templates\/_new-assets, .git, \/drinklifein.old\/_sean's-work\/emails, \/_archive.old, \/ameo\/kit\/template\/feature.old, \/drinklifein.old\/templates\/old",
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",

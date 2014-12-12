@@ -9,8 +9,8 @@ a { color: inherit; text-decoration: none; }
 <!-- @c! SECTIONS -->
 .header { padding-top: 12px; padding-bottom: 12px; font-size: <!--$headerFontSize-->; background-color: <!--$grayDarkest-->; }
 	.header-link { color: <!--$white-->; }
-	.nav { padding-top: 2px; padding-bottom: 2px; }
-	.nav td { color: <!--$white-->; border-right-color: <!--$grayDark-->; }
+	.nav { padding-top: 12px; padding-bottom: 2px; }
+	.nav td { color: <!--$white-->; }
 .main { background-color: <!--$greenLight-->; }
 .footer { color: <!--$white-->; background-color: <!--$grayDarkest-->; border-bottom: 10px solid <!--$grayDark-->; }
 	.links { line-height: 1.4; }
@@ -25,18 +25,19 @@ a { color: inherit; text-decoration: none; }
 	.item-heading { font-size: 14px; }
 <!-- @c! TEMPLATES -->
 .banner { <!--$sectionPadding--> }
-.letter-text {}
-	.letter-text .content { margin-bottom: 30px; }
-.heading {}
+<!-- @c! .heading {} -->
 	.heading .content { padding-top: 0; padding-bottom: 10px; }
+<!-- @c! 
 .default {}
 .default-2_2_2 {}
 .default-2_4 {}
 .default-3_3 {}
 .default-4_2 {}
 .single {}
+-->
 	.single .content td { vertical-align: middle; }
 	.single .item-heading { margin-top: 0; }
+<!-- @c! 
 .single-2_4-img_left {}
 .single-2_4-img_right {}
 .single-3_3-img_left {}
@@ -47,6 +48,7 @@ a { color: inherit; text-decoration: none; }
 .twoimg-2_4 {}
 .twoimg-3_3 {}
 .twoimg-4_2 {}
+-->
 <!-- @c! UTILITIES -->
 .green-dark { background-color: <!--$greenDark-->; }
 .rule-right { padding-right: 10px; border-right: 1px solid; }
