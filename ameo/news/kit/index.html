@@ -12,7 +12,6 @@ a { color: #000000; text-decoration: none; }
 img { margin: 0; padding: 0; }
 table { margin: 0 auto; padding: 0; }
 tr, td { margin: 0; padding: 0; }
-.section {}
 .container { width: 600px; }
 .content { vertical-align: top; }
 .header { font-size: 12px; background-color: #f8d0c7; }
@@ -21,7 +20,6 @@ tr, td { margin: 0; padding: 0; }
 .nav { background-color: #e9e2d7; }
 	.nav-highlight { padding-left: 10px; padding-right: 10px; background-color: #efc799; }
 	.nav-img { padding-top: 11px; padding-bottom: 12px; }
-.hero {}
 .main { background-color: #e9e2d7; }
 	.main td { vertical-align: top; }
 .footer { background-color: #f9efeb; }
@@ -36,27 +34,8 @@ tr, td { margin: 0; padding: 0; }
 	.item-caption { font-size: 13px; }
 	.item-heading { font-size: 14px; }
 .banner { padding-top: 30px; padding-bottom: 30px; }
-.heading {}
-.letter-text {}
-	.letter-text .content { margin-bottom: 30px; }
-.default {}
-.default-2_2_2 {}
-.default-2_4 {}
-.default-3_3 {}
-.default-4_2 {}
-.single {}
 	.single .content td { vertical-align: middle; }
 	.single .item-heading { margin-top: 0; }
-.single-2_4-img_left {}
-.single-2_4-img_right {}
-.single-3_3-img_left {}
-.single-3_3-img_right {}
-.single-4_2-img_left {}
-.single-4_2-img_right {}
-.twoimg {}
-.twoimg-2_4 {}
-.twoimg-3_3 {}
-.twoimg-4_2 {}
 .white { background-color: #ffffff; }
 .black { background-color: #000000; }
 .brown { background-color: #ba6954; }
@@ -151,10 +130,10 @@ tr, td { margin: 0; padding: 0; }
 <repeater label="Banner Image">
 	<layout label="Banner Image">
 		<tr class="banner">
-		<td height="280" style="height: 280px;">
-			<table class="content" width="560" height="280" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 560px; height: 280px; padding-top: 30px; padding-bottom: 30px;">
+		<td>
+			<table class="content" width="560" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 560px; padding-top: 30px; padding-bottom: 30px;">
 				<tr>
-					<td width="560" height="280" style="width: 560px; height: 280px;"><img label="Image 560x280" src="http://placehold.it/560x280" width="560" style="width: 560px; height: 280px;" editable /></td>
+					<td width="560" style="width: 560px;"><img label="Image 560 Wide" src="http://placehold.it/560x280/&text=560+Wide" width="560" style="width: 560px;" editable /></td>
 				</tr>
 			</table>
 		</td>
