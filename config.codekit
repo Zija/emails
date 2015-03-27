@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "18270",
+"creatorBuild": "18493",
 "files": {
 	"\/ameo\/img\/footer-en-resources.png": {
 		"fileType": 32768,
@@ -1383,30 +1383,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/letter\/kit\/lang-en.kit": {
+	"\/zijacorp\/letter\/kit\/lang\/en.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang-en.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang-en.html",
+		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/en.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/en.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/letter\/kit\/lang-es.kit": {
+	"\/zijacorp\/letter\/kit\/lang\/es.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang-es.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang-es.html",
+		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/es.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/es.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/letter\/kit\/lang-ja.kit": {
+	"\/zijacorp\/letter\/kit\/lang\/ja-nfr.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang-ja.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang-ja.html",
+		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/ja-nfr.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/ja-nfr.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/letter\/kit\/lang\/ja-otg.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/ja-otg.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/ja-otg.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1509,21 +1518,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/letter\/tpl-ja\/index.html": {
+	"\/zijacorp\/letter\/tpl-ja-nfr\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-nfr\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/letter\/tpl-ja\/index.kit": {
+	"\/zijacorp\/letter\/tpl-ja-nfr\/index.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-nfr\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-nfr\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/letter\/tpl-ja-otg\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-otg\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/letter\/tpl-ja-otg\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-otg\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-otg\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1536,48 +1563,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/news\/kit\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/lang-en.kit": {
+	"\/zijacorp\/news\/kit\/lang\/en.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang-en.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang-en.html",
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/en.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/en.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/news\/kit\/lang-es.kit": {
+	"\/zijacorp\/news\/kit\/lang\/es.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang-es.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang-es.html",
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/es.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/es.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/news\/kit\/lang-ja.kit": {
+	"\/zijacorp\/news\/kit\/lang\/ja-nfr.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang-ja.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang-ja.html",
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/ja-nfr.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/ja-nfr.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/news\/kit\/lang\/ja-otg.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/ja-otg.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/ja-otg.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1752,6 +1770,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/zijacorp\/news\/kit\/preview-en.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-en.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/news\/kit\/preview-en.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-en.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-en.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/news\/kit\/preview-ja.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-ja.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-ja.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/zijacorp\/news\/kit\/variables.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1797,21 +1842,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/news\/tpl-ja\/index.html": {
+	"\/zijacorp\/news\/tpl-ja-nfr\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-nfr\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/news\/tpl-ja\/index.kit": {
+	"\/zijacorp\/news\/tpl-ja-nfr\/index.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-nfr\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-nfr\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/news\/tpl-ja-otg\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-otg\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/news\/tpl-ja-otg\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-otg\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-otg\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
@@ -1864,6 +1927,10 @@
 			},
 		"empty_constructor_needs_parens": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"indentation": {
@@ -1957,6 +2024,10 @@
 		"space_operators": {
 			"active": 0,
 			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
 			}
 		},
 	"coffeeMinifyOutput": 1,
@@ -2035,6 +2106,10 @@
 			},
 		"dojo": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqeqeq": {
@@ -2441,6 +2516,7 @@
 	"slimAutoOutputPathStyle": 0,
 	"slimCompileOnly": 1,
 	"slimLogicless": 0,
+	"slimOutputFormat": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
 	"stylusAutoOutputPathEnabled": 1,
@@ -2465,8 +2541,9 @@
 	"typescriptMinifyOutput": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
-	"typescriptNoResolve": 0,
+	"typescriptPreserveConstEnums": 0,
 	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
 	"typescriptTargetECMAVersion": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
@@ -2503,6 +2580,10 @@
 			"flagValue": -1
 			},
 		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -2546,6 +2627,10 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -2558,8 +2643,16 @@
 			"active": 1,
 			"flagValue": 32000
 			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"properties": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"quote-keys": {
