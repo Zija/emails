@@ -1563,6 +1563,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/zijacorp\/news\/kit\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/news\/kit\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/zijacorp\/news\/kit\/lang\/en.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1767,33 +1785,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/style.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/style.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/preview-en.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-en.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/preview-en.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-en.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-en.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/preview-ja.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-ja.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/preview-ja.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
