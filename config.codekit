@@ -2,6 +2,114 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18493",
 "files": {
+	"\/ameo\/_en\/letter\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_en\/letter\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_en\/letter\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_en\/letter\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/_en\/letter\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_en\/news\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_en\/news\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_en\/news\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_en\/news\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/_en\/news\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_es\/letter\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_es\/letter\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_es\/letter\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_es\/letter\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/_es\/letter\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_es\/news\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_es\/news\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_es\/news\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_es\/news\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/_es\/news\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_ja\/letter\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_ja\/letter\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_ja\/letter\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_ja\/letter\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/_ja\/letter\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_ja\/news\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_ja\/news\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/_ja\/news\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/_ja\/news\/index.kit",
+		"outputAbbreviatedPath": "\/ameo\/_ja\/news\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/ameo\/img\/footer-en-resources.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -167,658 +275,300 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/letter\/kit\/base.kit": {
+	"\/ameo\/kit\/base.letter.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/base.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/base.html",
+		"inputAbbreviatedPath": "\/ameo\/kit\/base.letter.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/base.letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/letter\/kit\/index.html": {
+	"\/ameo\/kit\/base.news.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/base.news.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/base.news.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/lang\/en.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/lang\/en.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/lang\/en.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/lang\/es.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/lang\/es.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/lang\/es.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/lang\/ja.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/lang\/ja.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/lang\/ja.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/banner.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/banner.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/banner.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/default-2_2_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/default-2_2_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/default-2_2_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/default-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/default-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/default-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/default-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/default-3_3.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/default-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/default-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/default-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/default-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-3_3.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/heading.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/heading.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/heading.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/letter-text.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/letter-text.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/letter-text.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-2_4-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-2_4-img_left.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-2_4-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-2_4-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-2_4-img_right.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-2_4-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-3_3-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-3_3-img_left.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-3_3-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-3_3-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-3_3-img_right.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-3_3-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-4_2-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-4_2-img_left.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-4_2-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/single-4_2-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/single-4_2-img_right.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/single-4_2-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/twoimg-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/twoimg-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-3_3.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/twoimg-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/twoimg-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/page\/footer.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/page\/footer.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/page\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/page\/header.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/page\/header.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/page\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/page\/nav.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/page\/nav.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/page\/nav.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/page\/style.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/page\/style.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/page\/style.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/variables.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/variables.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/variables.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/preview.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/preview.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/letter\/kit\/index.kit": {
+	"\/ameo\/preview.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/lang-en.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/lang-en.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/lang-en.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/lang-es.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/lang-es.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/lang-es.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/lang-ja.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/lang-ja.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/lang-ja.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/layout\/banner.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/banner.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/banner.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/layout\/letter-text.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/letter-text.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/layout\/letter-text.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/page\/footer.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/page\/footer.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/page\/footer.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/page\/header.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/page\/header.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/page\/header.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/page\/nav.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/page\/nav.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/page\/nav.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/page\/style.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/page\/style.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/page\/style.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/kit\/variables.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/kit\/variables.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/kit\/variables.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/tpl-en\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/tpl-en\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/tpl-en\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/tpl-en\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/tpl-en\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/tpl-es\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/tpl-es\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/tpl-es\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/tpl-es\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/tpl-es\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/tpl-ja\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/tpl-ja\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/letter\/tpl-ja\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/letter\/tpl-ja\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/letter\/tpl-ja\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/base.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/base.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/base.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/lang-en.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/lang-en.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/lang-en.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/lang-es.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/lang-es.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/lang-es.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/lang-ja.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/lang-ja.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/lang-ja.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/banner.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/banner.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/banner.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/default-2_2_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/default-2_2_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/default-2_2_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/default-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/default-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/default-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/default-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/default-3_3.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/default-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/default-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/default-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/default-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/feature.old\/feature-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/feature.old\/feature-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-3_3.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/feature.old\/feature-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/feature.old\/feature-triple-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-triple-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-triple-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/feature.old\/feature-triple-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-triple-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/feature.old\/feature-triple-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/heading.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/heading.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/heading.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/single-2_4-img_left.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-2_4-img_left.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-2_4-img_left.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/single-2_4-img_right.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-2_4-img_right.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-2_4-img_right.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/single-3_3-img_left.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-3_3-img_left.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-3_3-img_left.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/single-3_3-img_right.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-3_3-img_right.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-3_3-img_right.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/single-4_2-img_left.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-4_2-img_left.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-4_2-img_left.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/single-4_2-img_right.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-4_2-img_right.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/single-4_2-img_right.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/twoimg-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/twoimg-2_4.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/twoimg-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/twoimg-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/twoimg-3_3.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/twoimg-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/layout\/twoimg-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/twoimg-4_2.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/layout\/twoimg-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/page\/footer.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/page\/footer.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/page\/footer.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/page\/header.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/page\/header.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/page\/header.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/page\/nav.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/page\/nav.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/page\/nav.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/page\/style.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/page\/style.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/page\/style.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/kit\/variables.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/kit\/variables.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/kit\/variables.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/tpl-en\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/tpl-en\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/tpl-en\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/tpl-en\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/tpl-en\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/tpl-es\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/tpl-es\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/tpl-es\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/tpl-es\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/tpl-es\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/tpl-ja\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/tpl-ja\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/news\/tpl-ja\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/news\/tpl-ja\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/news\/tpl-ja\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/_sean's-work\/email_template.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/_sean's-work\/email_template.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/_sean's-work\/email_template.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/_sean's-work\/email_template.kit",
-		"outputAbbreviatedPath": "\/drinklifein.old\/_sean's-work\/email_template.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/kit\/_footer.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/kit\/_footer.kit",
-		"outputAbbreviatedPath": "\/drinklifein.old\/kit\/_footer.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/kit\/_head.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/kit\/_head.kit",
-		"outputAbbreviatedPath": "\/drinklifein.old\/kit\/_head.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/kit\/_header.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/kit\/_header.kit",
-		"outputAbbreviatedPath": "\/drinklifein.old\/kit\/_header.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/kit\/ZijaInternational-Generic\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/kit\/ZijaInternational-Generic\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/kit\/ZijaInternational-Generic\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/kit\/ZijaInternational-Generic\/index.kit",
-		"outputAbbreviatedPath": "\/drinklifein.old\/kit\/ZijaInternational-Generic\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2260,
-		"inputAbbreviatedPath": "\/drinklifein.old\/logo.png",
-		"outputAbbreviatedPath": "\/drinklifein.old\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/drinklifein.old\/templates\/refresh-preview.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/templates\/refresh-preview.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/templates\/repeater-preview-ja.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/templates\/repeater-preview-ja.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/zijamail-template\/index-es.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/zijamail-template\/index-es.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/zijamail-template\/index-ja.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/zijamail-template\/index-ja.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/zijamail-template\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/zijamail-template\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/drinklifein.old\/zijamail-template\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2260,
-		"inputAbbreviatedPath": "\/drinklifein.old\/zijamail-template\/logo.png",
-		"outputAbbreviatedPath": "\/drinklifein.old\/zijamail-template\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/drinklifein.old\/zijamail-template\/README.md": {
-		"enableFootnoteSupport": 0,
-		"enableSmartyPants": 0,
-		"expandTabs": 0,
-		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/drinklifein.old\/zijamail-template\/README.md",
-		"outputAbbreviatedPath": "\/drinklifein.old\/zijamail-template\/README.html",
+		"inputAbbreviatedPath": "\/ameo\/preview.kit",
+		"outputAbbreviatedPath": "\/ameo\/preview.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1158,6 +908,150 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/zijacorp\/_en\/letter\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_en\/letter\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_en\/letter\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_en\/letter\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_en\/letter\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_en\/news\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_en\/news\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_en\/news\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_en\/news\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_en\/news\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_es\/letter\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_es\/letter\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_es\/letter\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_es\/letter\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_es\/letter\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_es\/news\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_es\/news\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_es\/news\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_es\/news\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_es\/news\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_ja\/nfr-letter\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-letter\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_ja\/nfr-letter\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-letter\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-letter\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_ja\/nfr-news\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-news\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_ja\/nfr-news\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-news\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-news\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_ja\/otg-letter\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/otg-letter\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_ja\/otg-letter\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/otg-letter\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_ja\/otg-letter\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_ja\/otg-news\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/otg-news\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/_ja\/otg-news\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/otg-news\/index.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_ja\/otg-news\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/zijacorp\/img\/brand-ameo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1422,516 +1316,264 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/zijacorp\/letter\/kit\/base.kit": {
+	"\/zijacorp\/kit\/base.letter.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/base.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/base.html",
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/base.letter.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/base.letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/letter\/kit\/index.html": {
+	"\/zijacorp\/kit\/base.news.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/base.news.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/base.news.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/lang\/en.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang\/en.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang\/en.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/lang\/es.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang\/es.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang\/es.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/lang\/ja-nfr.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja-nfr.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja-nfr.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/lang\/ja-otg.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja-otg.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja-otg.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/banner.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/banner.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/banner.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/default-2_2_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-2_2_2.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-2_2_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/default-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-2_4.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/default-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-3_3.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/default-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-4_2.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/default-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/heading.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/heading.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/heading.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/letter-text.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-text.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-text.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-2_4-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-2_4-img_left.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-2_4-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-2_4-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-2_4-img_right.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-2_4-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-3_3-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-3_3-img_left.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-3_3-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-3_3-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-3_3-img_right.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-3_3-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-4_2-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-4_2-img_left.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-4_2-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/single-4_2-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-4_2-img_right.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/single-4_2-img_right.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/twoimg-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-2_4.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/twoimg-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-3_3.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/twoimg-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-4_2.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/twoimg-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/page\/footer.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/footer.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/page\/header.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/header.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/page\/nav.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/page\/style.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/style.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/style.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/variables.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/variables.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/variables.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/preview.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/preview.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/letter\/kit\/index.kit": {
+	"\/zijacorp\/preview.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/lang\/en.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/en.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/en.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/lang\/es.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/es.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/es.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/lang\/ja-nfr.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/ja-nfr.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/ja-nfr.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/lang\/ja-otg.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/ja-otg.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/lang\/ja-otg.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/layout\/banner.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/layout\/banner.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/layout\/banner.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/layout\/letter-text.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/layout\/letter-text.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/layout\/letter-text.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/page\/footer.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/page\/footer.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/page\/footer.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/page\/header.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/page\/header.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/page\/header.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/page\/nav.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/page\/nav.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/page\/nav.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/page\/style.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/page\/style.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/page\/style.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/kit\/variables.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/kit\/variables.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/kit\/variables.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/tpl-en\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-en\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/tpl-en\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-en\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/tpl-en\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/tpl-es\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-es\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/tpl-es\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-es\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/tpl-es\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/tpl-ja-nfr\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-nfr\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/tpl-ja-nfr\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-nfr\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-nfr\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/tpl-ja-otg\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-otg\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/letter\/tpl-ja-otg\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-otg\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/letter\/tpl-ja-otg\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/base.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/base.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/base.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/lang\/en.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/en.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/en.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/lang\/es.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/es.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/es.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/lang\/ja-nfr.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/ja-nfr.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/ja-nfr.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/lang\/ja-otg.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/ja-otg.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/lang\/ja-otg.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/banner.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/banner.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/banner.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/default-2_2_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/default-2_2_2.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/default-2_2_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/default-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/default-2_4.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/default-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/default-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/default-3_3.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/default-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/default-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/default-4_2.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/default-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/heading.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/heading.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/heading.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/single-2_4-img_left.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-2_4-img_left.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-2_4-img_left.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/single-2_4-img_right.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-2_4-img_right.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-2_4-img_right.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/single-3_3-img_left.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-3_3-img_left.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-3_3-img_left.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/single-3_3-img_right.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-3_3-img_right.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-3_3-img_right.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/single-4_2-img_left.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-4_2-img_left.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-4_2-img_left.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/single-4_2-img_right.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-4_2-img_right.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/single-4_2-img_right.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/twoimg-2_4.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/twoimg-2_4.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/twoimg-2_4.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/twoimg-3_3.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/twoimg-3_3.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/twoimg-3_3.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/layout\/twoimg-4_2.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/twoimg-4_2.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/layout\/twoimg-4_2.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/page\/footer.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/footer.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/footer.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/page\/header.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/header.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/header.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/page\/nav.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/nav.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/nav.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/page\/style.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/style.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/page\/style.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/kit\/variables.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/kit\/variables.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/kit\/variables.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/tpl-en\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-en\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/tpl-en\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-en\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/tpl-en\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/tpl-es\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-es\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/tpl-es\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-es\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/tpl-es\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/tpl-ja-nfr\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-nfr\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/tpl-ja-nfr\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-nfr\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-nfr\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/tpl-ja-otg\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-otg\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/zijacorp\/news\/tpl-ja-otg\/index.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-otg\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/news\/tpl-ja-otg\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/preview.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/preview.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
@@ -2564,7 +2206,7 @@
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 1,
-	"skippedItemsString": "node_modules, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-JA, \/drinklifein.old\/templates\/dummy, \/drinklifein.old\/templates\/_old-images, _logs, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-EN, .hg, _cache, log, \/drinklifein.old\/templates\/ZijaInternational-2014ZijaMail-ES, logs, cache, .svn, \/drinklifein.old\/templates\/_new-assets, .git, \/drinklifein.old\/_sean's-work\/emails, \/_archive.old, \/ameo\/kit\/template\/feature.old, \/drinklifein.old\/templates\/old",
+	"skippedItemsString": "node_modules, .hg, _cache, log, logs, cache, .svn, .git, _logs, .ignore, *.old, _templates.old, drinklifein.old,",
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
