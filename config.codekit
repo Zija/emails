@@ -1427,21 +1427,21 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/lang\/ja-nfr.kit": {
+	"\/zijacorp\/kit\/lang\/ja.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja-nfr.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja-nfr.html",
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/lang\/ja-otg.kit": {
+	"\/zijacorp\/kit\/lang\/ja.otg.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja-otg.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja-otg.html",
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja.otg.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/lang\/ja.otg.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
