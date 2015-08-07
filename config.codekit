@@ -2,111 +2,111 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19033",
 "files": {
-	"\/ameo\/_en\/letter\/index.html": {
+	"\/ameo\/_en\/en-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_en\/letter\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_en\/en-letter.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_en\/letter\/index.kit": {
+	"\/ameo\/_en\/en-letter.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_en\/letter\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/_en\/letter\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_en\/en-letter.kit",
+		"outputAbbreviatedPath": "\/ameo\/_en\/en-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_en\/news\/index.html": {
+	"\/ameo\/_en\/en-news.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_en\/news\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_en\/en-news.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_en\/news\/index.kit": {
+	"\/ameo\/_en\/en-news.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_en\/news\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/_en\/news\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_en\/en-news.kit",
+		"outputAbbreviatedPath": "\/ameo\/_en\/en-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_es\/letter\/index.html": {
+	"\/ameo\/_es\/es-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_es\/letter\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_es\/es-letter.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_es\/letter\/index.kit": {
+	"\/ameo\/_es\/es-letter.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_es\/letter\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/_es\/letter\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_es\/es-letter.kit",
+		"outputAbbreviatedPath": "\/ameo\/_es\/es-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_es\/news\/index.html": {
+	"\/ameo\/_es\/es-news.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_es\/news\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_es\/es-news.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_es\/news\/index.kit": {
+	"\/ameo\/_es\/es-news.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_es\/news\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/_es\/news\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_es\/es-news.kit",
+		"outputAbbreviatedPath": "\/ameo\/_es\/es-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_ja\/letter\/index.html": {
+	"\/ameo\/_ja\/ja-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_ja\/letter\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_ja\/ja-letter.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_ja\/letter\/index.kit": {
+	"\/ameo\/_ja\/ja-letter.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_ja\/letter\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/_ja\/letter\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_ja\/ja-letter.kit",
+		"outputAbbreviatedPath": "\/ameo\/_ja\/ja-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_ja\/news\/index.html": {
+	"\/ameo\/_ja\/ja-news.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_ja\/news\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_ja\/ja-news.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/_ja\/news\/index.kit": {
+	"\/ameo\/_ja\/ja-news.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/_ja\/news\/index.kit",
-		"outputAbbreviatedPath": "\/ameo\/_ja\/news\/index.html",
+		"inputAbbreviatedPath": "\/ameo\/_ja\/ja-news.kit",
+		"outputAbbreviatedPath": "\/ameo\/_ja\/ja-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -275,21 +275,21 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/ameo\/kit\/base.letter.kit": {
+	"\/ameo\/kit\/base-letter.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/base.letter.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/base.letter.html",
+		"inputAbbreviatedPath": "\/ameo\/kit\/base-letter.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/base-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/ameo\/kit\/base.news.kit": {
+	"\/ameo\/kit\/base-news.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/base.news.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/base.news.html",
+		"inputAbbreviatedPath": "\/ameo\/kit\/base-news.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/base-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -917,147 +917,147 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_en\/letter\/index.html": {
+	"\/zijacorp\/_en\/en-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_en\/letter\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_en\/en-letter.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_en\/letter\/index.kit": {
+	"\/zijacorp\/_en\/en-letter.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_en\/letter\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/_en\/letter\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_en\/en-letter.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_en\/en-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_en\/news\/index.html": {
+	"\/zijacorp\/_en\/en-news.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_en\/news\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_en\/en-news.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_en\/news\/index.kit": {
+	"\/zijacorp\/_en\/en-news.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_en\/news\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/_en\/news\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_en\/en-news.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_en\/en-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_es\/letter\/index.html": {
+	"\/zijacorp\/_es\/es-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_es\/letter\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_es\/es-letter.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_es\/letter\/index.kit": {
+	"\/zijacorp\/_es\/es-letter.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_es\/letter\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/_es\/letter\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_es\/es-letter.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_es\/es-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_es\/news\/index.html": {
+	"\/zijacorp\/_es\/es-news.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_es\/news\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_es\/es-news.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_es\/news\/index.kit": {
+	"\/zijacorp\/_es\/es-news.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_es\/news\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/_es\/news\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_es\/es-news.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_es\/es-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_ja\/nfr-letter\/index.html": {
+	"\/zijacorp\/_ja\/ja_nfr-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-letter\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/ja_nfr-letter.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_ja\/nfr-letter\/index.kit": {
+	"\/zijacorp\/_ja\/ja_nfr-letter.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-letter\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-letter\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/ja_nfr-letter.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_ja\/ja_nfr-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_ja\/nfr-news\/index.html": {
+	"\/zijacorp\/_ja\/ja_nfr-news.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-news\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/ja_nfr-news.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_ja\/nfr-news\/index.kit": {
+	"\/zijacorp\/_ja\/ja_nfr-news.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-news\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/_ja\/nfr-news\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/ja_nfr-news.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_ja\/ja_nfr-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_ja\/otg-letter\/index.html": {
+	"\/zijacorp\/_ja\/ja_otg-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_ja\/otg-letter\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/ja_otg-letter.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_ja\/otg-letter\/index.kit": {
+	"\/zijacorp\/_ja\/ja_otg-letter.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_ja\/otg-letter\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/_ja\/otg-letter\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/ja_otg-letter.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_ja\/ja_otg-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_ja\/otg-news\/index.html": {
+	"\/zijacorp\/_ja\/ja_otg-news.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_ja\/otg-news\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/ja_otg-news.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/_ja\/otg-news\/index.kit": {
+	"\/zijacorp\/_ja\/ja_otg-news.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/_ja\/otg-news\/index.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/_ja\/otg-news\/index.html",
+		"inputAbbreviatedPath": "\/zijacorp\/_ja\/ja_otg-news.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/_ja\/ja_otg-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1391,21 +1391,21 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/zijacorp\/kit\/base.letter.kit": {
+	"\/zijacorp\/kit\/base-letter.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/base.letter.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/base.letter.html",
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/base-letter.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/base-letter.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/zijacorp\/kit\/base.news.kit": {
+	"\/zijacorp\/kit\/base-news.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/zijacorp\/kit\/base.news.kit",
-		"outputAbbreviatedPath": "\/zijacorp\/kit\/base.news.html",
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/base-news.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/base-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
