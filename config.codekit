@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19076",
 "files": {
 	"\/ameo\/_en\/en-letter.html": {
 		"fileType": 8192,
@@ -389,6 +389,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/Ameo_facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1621,
+		"inputAbbreviatedPath": "\/Ameo_facebook.png",
+		"outputAbbreviatedPath": "\/Ameo_facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Ameo_share.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1848,
+		"inputAbbreviatedPath": "\/Ameo_share.png",
+		"outputAbbreviatedPath": "\/Ameo_share.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Ameo_twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1872,
+		"inputAbbreviatedPath": "\/Ameo_twitter.png",
+		"outputAbbreviatedPath": "\/Ameo_twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/drinklifein\/kit\/index.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -550,6 +583,39 @@
 		"outputAbbreviatedPath": "\/drinklifein\/kit\/template\/plain-4_2.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1177,
+		"inputAbbreviatedPath": "\/facebook.png",
+		"outputAbbreviatedPath": "\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1604,
+		"inputAbbreviatedPath": "\/instagram.png",
+		"outputAbbreviatedPath": "\/instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/pinterest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1815,
+		"inputAbbreviatedPath": "\/pinterest.png",
+		"outputAbbreviatedPath": "\/pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/README.md": {
 		"criticStyle": 0,
@@ -733,6 +799,50 @@
 		"outputAbbreviatedPath": "\/ripstix\/kit\/template\/plain-4_2.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1686,
+		"inputAbbreviatedPath": "\/twitter.png",
+		"outputAbbreviatedPath": "\/twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zija_facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1620,
+		"inputAbbreviatedPath": "\/zija_facebook.png",
+		"outputAbbreviatedPath": "\/zija_facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zija_share.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1848,
+		"inputAbbreviatedPath": "\/zija_share.png",
+		"outputAbbreviatedPath": "\/zija_share.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zija_twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1870,
+		"inputAbbreviatedPath": "\/zija_twitter.png",
+		"outputAbbreviatedPath": "\/zija_twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/zijacorp\/_en\/en-letter.html": {
 		"fileType": 8192,
@@ -1096,7 +1206,7 @@
 		},
 	"\/zijacorp\/kit\/page\/nav.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.html",
@@ -1768,7 +1878,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
