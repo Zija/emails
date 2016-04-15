@@ -3,29 +3,46 @@
 -->
 	<tr class="links">
 	<td>
-		<table <!--$tableReset-->  width="<!--$contentWidth-->" height="<!--$navHeight-->" style="width: <!--$contentWidth-->px; height: <!--$navHeight-->px; border-top:2px solid #79b842;">
+		<table class="content" <!--$tableReset-->  width="<!--$contentWidth-->" height="<!--$navHeight-->" style="width: <!--$contentWidth-->px; height: <!--$navHeight-->px; <!--$sectionPadding-->">
 			<tr>
-				<td width="224px">
-					<a href="<!--$t_privacyPolicyLink-->"><!--$t_privacyPolicy--></a>&nbsp;&nbsp;
-					<a href="<!--$t_termsOfUseLink-->"><!--$t_termsOfUse--></a>
-				</td>
-				<td width="336px" align="right" style="text-align:right;">
-					<!--$t_copyright-->
-				</td>
-			</tr>
-		</table>
-		<table <!--$tableReset-->  width="<!--$contentWidth-->" height="<!--$navHeight-->" style="width: <!--$contentWidth-->px; height: <!--$navHeight-->px;">
-			<tr>
-				<td width="336px">
-					<ul style="list-style:none; padding-left:0;">
-						<li><!--$t_disclaimer--> <a href="<!--$t_contactLink-->"><!-- $t_contact --></a><!--$t_disclaimerEnd--></li><br />
+				<td width="<!--$width33-->" class="rule-right">
+					<img class="links-heading" src="<!--$imgPath-->footer-<!--$t_lang-->-support.png" alt="<!--$t_support-->" width="<!--$t_supportW-->" height="<!--$t_supportH-->" />
+					<ul class="links-list">
+						<li><a href="<!--$t_contactLink-->"><!--$t_contact--></a></li>
+						<li><a href="<!--$t_privacyPolicyLink-->"><!--$t_privacyPolicy--></a></li>
+						<li><a href="<!--$t_termsOfUseLink-->"><!--$t_termsOfUse--></a></li>
 						<li><unsubscribe><!--$t_unsubscribe--></unsubscribe></li>
 					</ul>
 				</td>
-				<td width="224px" align="right" style="text-align:right;">
-					<h4 style="margin:0;">Share This Email</h4>
-					<fblike title="<!--$t_facebookLikeAlt-->" style="text-decoration: none;"><img src="<!--$imgPath-->zija_facebook.png" alt="<!--$t_facebookLikeAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" /></fblike>
-					<tweet  title="<!--$t_twitterTweetAlt-->" style="text-decoration: none;"><img src="<!--$imgPath-->zija_twitter.png"  alt="<!--$t_twitterTweetAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" /></tweet>
+				<td width="<!--$width33-->" class="rule-right">
+					<img class="links-heading" src="<!--$imgPath-->footer-<!--$t_lang-->-resources.png" alt="<!--$t_resources-->" width="<!--$t_resourcesW-->" height="<!--$t_resourcesH-->" />
+					<ul class="links-list">
+						<li><a href="<!--$t_backOfficeLoginLink-->"><!--$t_backOfficeLogin--></a></li>
+						<li><a href="<!--$t_mediaCenterLink-->"><!--$t_mediaCenter--></a></li>
+						<li><a href="<!--$t_enrollLink-->"><!--$t_enroll--></a></li>
+						<li><a href="<!--$t_compPlanLink-->"><!--$t_compPlan--></a></li>
+					</ul>
+				</td>
+				<td width="<!--$width33-->">
+					<img class="links-heading" src="<!--$imgPath-->footer-<!--$t_lang-->-share.png" alt="<!--$t_share-->" width="<!--$t_shareW-->" height="<!--$t_shareH-->" />
+					<br>
+					<fblike title="<!--$t_facebookLikeAlt-->" style="text-decoration: none; margin-right: 10px;"><img src="<!--$imgPath-->icon-facebook.png" alt="<!--$t_facebookLikeAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" class="share-icon" /></fblike>
+					<tweet  title="<!--$t_twitterTweetAlt-->" style="text-decoration: none;"><img src="<!--$imgPath-->icon-twitter.png"  alt="<!--$t_twitterTweetAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" class="share-icon" /></tweet>
+					<p><!--$t_disclaimer--></p>
+				</td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+	<tr class="legal">
+	<td>
+		<table class="content" <!--$tableReset-->  width="<!--$contentWidth-->" height="<!--$navHeight-->" style="width: <!--$contentWidth-->px; height: <!--$navHeight-->px; padding-top: 20px; padding-bottom: 20px;">
+			<tr>
+				<td class="lock-font-size">
+					<a href="<!--$t_corporateLink-->" style="text-transform: uppercase;"><img src="<!--$imgPath-->logo-white.png" width="52" height="51" style="margin-right: 15px; vertical-align: middle;" /> ZijaInternational.com</a>
+				</td>
+				<td class="lock-font-size" align="right" style="text-align: right; text-transform: uppercase;">
+					<!--$t_copyright-->
 				</td>
 			</tr>
 		</table>
