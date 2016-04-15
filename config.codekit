@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19115",
+"creatorBuild": "19033",
 "files": {
 	"\/ameo\/_en\/en-letter.html": {
 		"fileType": 8192,
@@ -110,6 +110,171 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/ameo\/img\/footer-en-resources.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1386,
+		"inputAbbreviatedPath": "\/ameo\/img\/footer-en-resources.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/footer-en-resources.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/footer-en-share.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1447,
+		"inputAbbreviatedPath": "\/ameo\/img\/footer-en-share.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/footer-en-share.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/footer-en-support.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1320,
+		"inputAbbreviatedPath": "\/ameo\/img\/footer-en-support.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/footer-en-support.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/heading-en-ameonews.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1950,
+		"inputAbbreviatedPath": "\/ameo\/img\/heading-en-ameonews.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/heading-en-ameonews.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/icon-facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1356,
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-facebook.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/icon-instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1330,
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-instagram.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/icon-pinterest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1387,
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-pinterest.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/icon-rss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1371,
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-rss.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-rss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/icon-twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1355,
+		"inputAbbreviatedPath": "\/ameo\/img\/icon-twitter.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/icon-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/logo-zijacorp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2042,
+		"inputAbbreviatedPath": "\/ameo\/img\/logo-zijacorp.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/logo-zijacorp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3603,
+		"inputAbbreviatedPath": "\/ameo\/img\/logo.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/nav-en-ameodifference.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1603,
+		"inputAbbreviatedPath": "\/ameo\/img\/nav-en-ameodifference.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/nav-en-ameodifference.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/nav-en-mediacenter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1456,
+		"inputAbbreviatedPath": "\/ameo\/img\/nav-en-mediacenter.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/nav-en-mediacenter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/nav-en-opportunity.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1473,
+		"inputAbbreviatedPath": "\/ameo\/img\/nav-en-opportunity.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/nav-en-opportunity.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/ameo\/img\/nav-en-products.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1376,
+		"inputAbbreviatedPath": "\/ameo\/img\/nav-en-products.png",
+		"outputAbbreviatedPath": "\/ameo\/img\/nav-en-products.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/ameo\/kit\/base-letter.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -200,39 +365,57 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-3_3.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-3_3.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-3_3.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-2_4.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.kit",
+		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/feature.old\/feature-triple-4_2.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/ameo\/kit\/layout\/heading.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/heading.kit",
 		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/heading.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/layout\/letter-img-full.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/letter-img-full.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/letter-img-full.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/layout\/letter-img-left.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/letter-img-left.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/letter-img-left.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/ameo\/kit\/layout\/letter-img-right.kit": {
-		"fileType": 2048,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ameo\/kit\/layout\/letter-img-right.kit",
-		"outputAbbreviatedPath": "\/ameo\/kit\/layout\/letter-img-right.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -388,39 +571,6 @@
 		"outputAbbreviatedPath": "\/ameo\/preview.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/Ameo_facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1621,
-		"inputAbbreviatedPath": "\/Ameo_facebook.png",
-		"outputAbbreviatedPath": "\/Ameo_facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/Ameo_share.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1848,
-		"inputAbbreviatedPath": "\/Ameo_share.png",
-		"outputAbbreviatedPath": "\/Ameo_share.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/Ameo_twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1872,
-		"inputAbbreviatedPath": "\/Ameo_twitter.png",
-		"outputAbbreviatedPath": "\/Ameo_twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/drinklifein\/kit\/index.kit": {
 		"fileType": 2048,
@@ -583,39 +733,6 @@
 		"outputAbbreviatedPath": "\/drinklifein\/kit\/template\/plain-4_2.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1177,
-		"inputAbbreviatedPath": "\/facebook.png",
-		"outputAbbreviatedPath": "\/facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/instagram.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1604,
-		"inputAbbreviatedPath": "\/instagram.png",
-		"outputAbbreviatedPath": "\/instagram.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/pinterest.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1815,
-		"inputAbbreviatedPath": "\/pinterest.png",
-		"outputAbbreviatedPath": "\/pinterest.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/README.md": {
 		"criticStyle": 0,
@@ -800,50 +917,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1686,
-		"inputAbbreviatedPath": "\/twitter.png",
-		"outputAbbreviatedPath": "\/twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/Zija_facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1620,
-		"inputAbbreviatedPath": "\/Zija_facebook.png",
-		"outputAbbreviatedPath": "\/Zija_facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zija_share.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1848,
-		"inputAbbreviatedPath": "\/zija_share.png",
-		"outputAbbreviatedPath": "\/zija_share.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/Zija_Twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1870,
-		"inputAbbreviatedPath": "\/Zija_Twitter.png",
-		"outputAbbreviatedPath": "\/Zija_Twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/zijacorp\/_en\/en-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -987,6 +1060,336 @@
 		"outputAbbreviatedPath": "\/zijacorp\/_ja\/ja_otg-news.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/img\/brand-ameo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3101,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-ameo.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-ameo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/brand-ripstix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2131,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-ripstix.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-ripstix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/brand-zija.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2794,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-zija.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-zija.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/footer-en-copyright.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2006,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-copyright.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-copyright.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-en-resources.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1386,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-resources.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-resources.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-en-share.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1447,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-share.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-share.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-en-support.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1320,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-en-support.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-en-support.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-es-resources.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1378,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-es-resources.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-es-resources.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-es-share.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1707,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-es-share.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-es-share.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-es-support.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1297,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-es-support.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-es-support.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/footer-ja-resources.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1421,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-ja-resources.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-ja-resources.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/footer-ja-share.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1693,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-ja-share.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-ja-share.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/footer-ja-support.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1427,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-ja-support.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-ja-support.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/footer-zijacorpurl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1340,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/footer-zijacorpurl.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/footer-zijacorpurl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-en-browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1555,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-en-browser.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-en-browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-en-events.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1310,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-en-events.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-en-events.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-es-browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1453,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-es-browser.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-es-browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-es-events.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1241,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-es-events.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-es-events.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/header-ja-browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1451,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-ja-browser.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-ja-browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/header-ja-events.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1276,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-ja-events.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-ja-events.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/heading-en-news.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2757,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/heading-en-news.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/heading-en-news.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/heading-es-news.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2528,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/heading-es-news.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/heading-es-news.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/heading-ja-news.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1954,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/heading-ja-news.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/heading-ja-news.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/icon-facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1356,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-facebook.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1330,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-instagram.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-pinterest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1387,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-pinterest.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-rss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1371,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-rss.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-rss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/icon-twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1355,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-twitter.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2356,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/logo-white.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/logo-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/zijacorp\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3239,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/logo.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/zijacorp\/kit\/base-letter.kit": {
 		"fileType": 2048,
@@ -1206,7 +1609,7 @@
 		},
 	"\/zijacorp\/kit\/page\/nav.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.html",
@@ -1252,7 +1655,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Raul Smith",
+"lastSavedByUser": "Calvin Juárez",
 "manualImportLinks": {
 	},
 "projectAttributes": {
@@ -1352,16 +1755,8 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"no_nested_string_interpolation": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"no_plusplus": {
 			"active": 0,
-			"flagValue": -1
-			},
-		"no_private_function_fat_arrows": {
-			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -1370,10 +1765,6 @@
 			},
 		"no_tabs": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"no_this": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
@@ -1467,10 +1858,6 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"browserify": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"camelcase": {
 			"active": 0,
 			"flagValue": -1
@@ -1535,8 +1922,8 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"futurehostile": {
-			"active": 0,
+		"gcl": {
+			"active": false,
 			"flagValue": -1
 			},
 		"globalstrict": {
@@ -1552,10 +1939,6 @@
 			"flagValue": 4
 			},
 		"iterator": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"jasmine": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1603,10 +1986,6 @@
 			"active": 0,
 			"flagValue": 4
 			},
-		"mocha": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"mootools": {
 			"active": 0,
 			"flagValue": -1
@@ -1625,10 +2004,6 @@
 			},
 		"noarg": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"nocomma": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"node": {
@@ -1663,6 +2038,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"onevar": {
+			"active": false,
+			"flagValue": -1
+			},
 		"phantom": {
 			"active": 0,
 			"flagValue": -1
@@ -1676,10 +2055,6 @@
 			"flagValue": -1
 			},
 		"prototypejs": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"qunit": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1703,8 +2078,8 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"singleGroups": {
-			"active": 0,
+		"smarttabs": {
+			"active": true,
 			"flagValue": -1
 			},
 		"strict": {
@@ -1719,6 +2094,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"trailing": {
+			"active": true,
+			"flagValue": -1
+			},
 		"typed": {
 			"active": 0,
 			"flagValue": -1
@@ -1731,8 +2110,8 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"varstmt": {
-			"active": 0,
+		"white": {
+			"active": false,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -1753,6 +2132,10 @@
 			}
 		},
 	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -1761,7 +2144,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"couch": {
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1769,27 +2160,75 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"es6": {
+		"eqeq": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"eval": {
+		"evil": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"for": {
+		"forin": {
 			"active": 0,
 			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"this": {
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1890,9 +2329,7 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
-	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
-	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
@@ -1902,10 +2339,6 @@
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"bare-returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1986,10 +2419,6 @@
 			"flagValue": -1
 			},
 		"keep_fargs": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"keep_fnames": {
 			"active": 0,
 			"flagValue": -1
 			},
