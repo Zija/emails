@@ -1188,7 +1188,7 @@
 		},
 	"\/zijacorp\/kit\/page\/nav.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/page\/nav.html",
