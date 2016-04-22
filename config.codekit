@@ -1170,7 +1170,7 @@
 		},
 	"\/zijacorp\/kit\/layout\/letter-img_center.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_center.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_center.html",
@@ -1179,7 +1179,7 @@
 		},
 	"\/zijacorp\/kit\/layout\/letter-img_left.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_left.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_left.html",
@@ -1188,7 +1188,7 @@
 		},
 	"\/zijacorp\/kit\/layout\/letter-img_right.kit": {
 		"fileType": 2048,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_right.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_right.html",
