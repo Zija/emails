@@ -7,11 +7,16 @@
  body { margin: 0; padding: 0; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.3; }
 .body { margin: 0; padding: 0; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.3; }
 a { color: inherit; text-decoration: none; }
+p { margin-top: 0 }
+.template-news {}
+.template-letter {}
 .header { padding-top: 12px; padding-bottom: 12px; font-size: 12px; }
 	.header-link {}
 	.nav { padding-top: 12px; padding-bottom: 2px; }
 	.nav td { color: #ffffff; }
 .main {}
+	.template-letter .main { padding-top: 16px; padding-bottom: 56px; }
+		.template-letter .main td { padding-bottom: 0; }
 .footer {}
 	.links { line-height: 1.4; }
 		.links .content { padding-top: 30px; padding-bottom: 30px; }
@@ -23,16 +28,24 @@ a { color: inherit; text-decoration: none; }
 	.item-caption { font-size: 13px; }
 	.item-heading { font-size: 14px; }
 .banner {}
+	.banner .content { padding-bottom: 20px; }
+		.template-letter .banner .content { padding-bottom: 60px; }
 	.heading .content { padding-top: 0; padding-bottom: 10px; }
 	.single .content td { vertical-align: middle; }
 	.single .item-heading { margin-top: 0; }
-	.letter-text .content { padding-bottom: 16px; }
+.letter-block {}
+.letter-text {}
+.letter-img_full {}
+.letter-img_left {}
+	.inline-img-left { margin-right: 20px; }
+.letter-img_right {}
+	.inline-img-right { margin-left: 20px; }
 .rule-right { padding-right: 10px; border-right: 1px solid; }
 .rule-right + * { padding-left: 10px; }
 </style>
 </head>
 <body link="#000000">
-<table class="body" width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<table class="body  template-letter" width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td class="section header">
 	<table class="container" width="600" height="74" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 600px; height: 74px;">
@@ -94,31 +107,32 @@ a { color: inherit; text-decoration: none; }
 </td>
 </tr>
 <tr>
-<td class="section hero">
+<td class="section main">
 	<table class="container" width="600" height="20" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 600px; height: 20px;">
-<repeater label="Hero Content (White Background)">
+<repeater label="Content">
 	<layout label="Banner Image">
 		<tr class="banner">
 		<td>
 			<table class="content" width="560" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 560px;">
 				<tr>
-					<td width="560" style="width: 560px;"><img label="Image 560 Wide" src="http://placehold.it/560x280/&text=560+Wide" width="560" style="width: 560px;" editable /></td>
+					<td width="560" style="width: 560px;"><img label="Image 560 Wide" src="http://placehold.it/560x280/?text=560+Wide" width="560" style="width: 560px;" editable /></td>
 				</tr>
 			</table>
 		</td>
 		</tr>
 	</layout>
 	<layout label="Letter Text">
-		<tr class="letter-text">
+		<tr class="letter-block letter-text">
 		<td height="60" style="height: 60px;">
 			<table class="content" width="560" height="60" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 560px; height: 60px;">
 				<tr>
-					<td width="560" height="60" style="width: 560px; height: 60px;">
-						<multiline label="Letter Text">
+					<td width="560" height="60" style="width: 560px;">
+						<multiline label="Text (don't split paragraphs)">
 							<p><strong>Dear [firstname,fallback=Zija Subscriber],</strong></p>
 							<p>&nbsp;</p>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 							<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+							<p>Sed vulputate consequat ultricies. Donec accumsan luctus purus feugiat efficitur. Mauris imperdiet lobortis sem, eu convallis turpis tempus eget. Vivamus auctor vel ipsum quis suscipit. Cras vel sagittis sem.</p>
 							<p>&nbsp;</p>
 							<p><strong>The Zija Team</strong></p>
 						</multiline>
@@ -158,8 +172,8 @@ a { color: inherit; text-decoration: none; }
 				</td>
 				<td width="224px" align="right" style="text-align:right;">
 					<h4 style="margin:0;">Share This Email</h4>
-					<fblike title="このメールをフェイスブックのいいね！にクリック" style="text-decoration: none;"><img src="img/zija_facebook.png" alt="このメールをフェイスブックのいいね！にクリック" width="20" height="20" /></fblike>
-					<tweet  title="このメールをツイッターする" style="text-decoration: none;"><img src="img/zija_twitter.png"  alt="このメールをツイッターする" width="20" height="20" /></tweet>
+					<fblike title="このメールをフェイスブックのいいね！にクリック" style="text-decoration: none;"><img src="img/icon-circle-facebook.png" alt="このメールをフェイスブックのいいね！にクリック" width="20" height="20" /></fblike>
+					<tweet  title="このメールをツイッターする" style="text-decoration: none;"><img src="img/icon-circle-twitter.png"  alt="このメールをツイッターする" width="20" height="20" /></tweet>
 				</td>
 			</tr>
 		</table>

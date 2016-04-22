@@ -1,5 +1,5 @@
 <!-- @c!
-	Zija Corp | base.kit
+	Zija Corp | base-letter.kit
 -->
 <!-- @include variables.kit -->
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //<!--$t_LANG-->" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -10,7 +10,7 @@
 <!-- @include page/style.kit -->
 </head>
 <body link="<!--$black-->">
-<table class="body" width="100%" <!--$tableReset-->>
+<table class="body  template-letter" width="100%" <!--$tableReset-->>
 <tr>
 <td class="section header">
 	<table class="container" width="<!--$containerWidth-->" height="<!--$headerHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$headerHeight-->px;">
@@ -19,9 +19,9 @@
 </td>
 </tr>
 <tr>
-<td class="section hero">
+<td class="section main">
 	<table class="container" width="<!--$containerWidth-->" height="<!--$heroHeight-->" <!--$tableReset--> style="width: <!--$containerWidth-->px; height: <!--$heroHeight-->px;">
-<repeater label="Hero Content (White Background)">
+<repeater label="Content">
 <!-- @include layout/banner.kit -->
 <!-- @include layout/letter-text.kit -->
 </repeater>

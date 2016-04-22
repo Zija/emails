@@ -7,11 +7,16 @@
  body { margin: 0; padding: 0; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.3; }
 .body { margin: 0; padding: 0; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.3; }
 a { color: inherit; text-decoration: none; }
+p { margin-top: 0 }
+.template-news {}
+.template-letter {}
 .header { padding-top: 12px; padding-bottom: 12px; font-size: 12px; }
 	.header-link {}
 	.nav { padding-top: 12px; padding-bottom: 2px; }
 	.nav td { color: #ffffff; }
 .main {}
+	.template-letter .main { padding-top: 16px; padding-bottom: 56px; }
+		.template-letter .main td { padding-bottom: 0; }
 .footer {}
 	.links { line-height: 1.4; }
 		.links .content { padding-top: 30px; padding-bottom: 30px; }
@@ -23,16 +28,24 @@ a { color: inherit; text-decoration: none; }
 	.item-caption { font-size: 13px; }
 	.item-heading { font-size: 14px; }
 .banner {}
+	.banner .content { padding-bottom: 20px; }
+		.template-letter .banner .content { padding-bottom: 60px; }
 	.heading .content { padding-top: 0; padding-bottom: 10px; }
 	.single .content td { vertical-align: middle; }
 	.single .item-heading { margin-top: 0; }
-	.letter-text .content { padding-bottom: 16px; }
+.letter-block {}
+.letter-text {}
+.letter-img_full {}
+.letter-img_left {}
+	.inline-img-left { margin-right: 20px; }
+.letter-img_right {}
+	.inline-img-right { margin-left: 20px; }
 .rule-right { padding-right: 10px; border-right: 1px solid; }
 .rule-right + * { padding-left: 10px; }
 </style>
 </head>
 <body link="#000000">
-<table class="body" width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+<table class="body  template-news" width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td class="section header">
 	<table class="container" width="600" height="74" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 600px; height: 74px;">
@@ -94,27 +107,21 @@ a { color: inherit; text-decoration: none; }
 </td>
 </tr>
 <tr>
-<td class="section hero">
+<td class="section main">
 	<table class="container" width="600" height="20" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 600px; height: 20px;">
-<repeater label="Hero Content (White Background)">
+<repeater label="Hero Content">
 	<layout label="Banner Image">
 		<tr class="banner">
 		<td>
 			<table class="content" width="560" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 560px;">
 				<tr>
-					<td width="560" style="width: 560px;"><img label="Image 560 Wide" src="http://placehold.it/560x280/&text=560+Wide" width="560" style="width: 560px;" editable /></td>
+					<td width="560" style="width: 560px;"><img label="Image 560 Wide" src="http://placehold.it/560x280/?text=560+Wide" width="560" style="width: 560px;" editable /></td>
 				</tr>
 			</table>
 		</td>
 		</tr>
 	</layout>
 </repeater>
-	</table><!-- /.container -->
-</td>
-</tr>
-<tr>
-<td class="section main">
-	<table class="container" width="600" height="20" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 600px; height: 20px;">
 <repeater label="Heading">
 	<layout label="Améo News Heading">
 		<tr class="heading">
@@ -363,7 +370,7 @@ a { color: inherit; text-decoration: none; }
 		</td>
 		</tr>
 	</layout>
-	<layout label="Single Banner Image Item |––|––––|">
+	<layout label="Single Banner Image Item |––––––|">
 		<tr class="single single-banner-img">
 			<td width="600" height="174" style="height: 174px;">
 				<table class="content" width="560" height="174" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 560px; height: 174px;">
@@ -457,8 +464,8 @@ a { color: inherit; text-decoration: none; }
 				</td>
 				<td width="224px" align="right" style="text-align:right;">
 					<h4 style="margin:0;">Share This Email</h4>
-					<fblike title="Dé a este correo-e un «me gusta» en Facebook" style="text-decoration: none;"><img src="img/zija_facebook.png" alt="Dé a este correo-e un «me gusta» en Facebook" width="20" height="20" /></fblike>
-					<tweet  title="Tweet acerca de este correo-e" style="text-decoration: none;"><img src="img/zija_twitter.png"  alt="Tweet acerca de este correo-e" width="20" height="20" /></tweet>
+					<fblike title="Dé a este correo-e un «me gusta» en Facebook" style="text-decoration: none;"><img src="img/icon-circle-facebook.png" alt="Dé a este correo-e un «me gusta» en Facebook" width="20" height="20" /></fblike>
+					<tweet  title="Tweet acerca de este correo-e" style="text-decoration: none;"><img src="img/icon-circle-twitter.png"  alt="Tweet acerca de este correo-e" width="20" height="20" /></tweet>
 				</td>
 			</tr>
 		</table>
