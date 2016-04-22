@@ -362,39 +362,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Ameo_facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1621,
-		"inputAbbreviatedPath": "\/Ameo_facebook.png",
-		"outputAbbreviatedPath": "\/Ameo_facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/Ameo_share.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1848,
-		"inputAbbreviatedPath": "\/Ameo_share.png",
-		"outputAbbreviatedPath": "\/Ameo_share.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/Ameo_twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1872,
-		"inputAbbreviatedPath": "\/Ameo_twitter.png",
-		"outputAbbreviatedPath": "\/Ameo_twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/drinklifein\/kit\/index.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -556,39 +523,6 @@
 		"outputAbbreviatedPath": "\/drinklifein\/kit\/template\/plain-4_2.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1177,
-		"inputAbbreviatedPath": "\/facebook.png",
-		"outputAbbreviatedPath": "\/facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/instagram.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1604,
-		"inputAbbreviatedPath": "\/instagram.png",
-		"outputAbbreviatedPath": "\/instagram.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/pinterest.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1815,
-		"inputAbbreviatedPath": "\/pinterest.png",
-		"outputAbbreviatedPath": "\/pinterest.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/README.md": {
 		"criticStyle": 0,
@@ -773,50 +707,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1686,
-		"inputAbbreviatedPath": "\/twitter.png",
-		"outputAbbreviatedPath": "\/twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zija_facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1620,
-		"inputAbbreviatedPath": "\/zija_facebook.png",
-		"outputAbbreviatedPath": "\/zija_facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zija_share.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1848,
-		"inputAbbreviatedPath": "\/zija_share.png",
-		"outputAbbreviatedPath": "\/zija_share.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/zija_twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1870,
-		"inputAbbreviatedPath": "\/zija_twitter.png",
-		"outputAbbreviatedPath": "\/zija_twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/zijacorp\/_en\/en-letter.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -961,6 +851,215 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/zijacorp\/img\/brand-ameo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3181,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-ameo.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-ameo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/brand-ripstix.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2146,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-ripstix.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-ripstix.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/brand-zija.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2859,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/brand-zija.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/brand-zija.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/header-en-browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1514,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-en-browser.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-en-browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/header-en-events.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1305,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-en-events.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-en-events.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/header-es-browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1584,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-es-browser.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-es-browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/header-es-events.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1336,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-es-events.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-es-events.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/header-ja-browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1464,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-ja-browser.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-ja-browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/header-ja-events.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1259,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/header-ja-events.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/header-ja-events.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/heading-en-news.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1769,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/heading-en-news.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/heading-en-news.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/heading-es-news.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2649,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/heading-es-news.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/heading-es-news.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/heading-ja-news.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2081,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/heading-ja-news.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/heading-ja-news.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/icon-circle-facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1620,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-circle-facebook.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-circle-facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/icon-circle-twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1870,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-circle-twitter.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-circle-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/icon-facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1156,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-facebook.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/icon-instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1304,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-instagram.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/icon-pinterest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1358,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-pinterest.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-pinterest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/icon-twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1306,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/icon-twitter.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/icon-twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/zijacorp\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16660,
+		"inputAbbreviatedPath": "\/zijacorp\/img\/logo.png",
+		"outputAbbreviatedPath": "\/zijacorp\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/zijacorp\/kit\/base-letter.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1066,6 +1165,33 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/heading.kit",
 		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/heading.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/letter-img_center.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_center.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_center.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/letter-img_left.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_left.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_left.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/zijacorp\/kit\/layout\/letter-img_right.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_right.kit",
+		"outputAbbreviatedPath": "\/zijacorp\/kit\/layout\/letter-img_right.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1234,7 +1360,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Raul Smith",
+"lastSavedByUser": "Calvin Juarez",
 "manualImportLinks": {
 	},
 "projectAttributes": {

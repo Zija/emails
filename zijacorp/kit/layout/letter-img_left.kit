@@ -1,13 +1,14 @@
 <!-- @c!
-	Zija Corp | letter-text.kit
+	Zija Corp | letter-img_left.kit
 -->
-<!-- $layoutHeight 60 -->
-	<layout label="Letter Text">
-		<tr class="letter-block letter-text">
-		<td height="<!--$layoutHeight-->" style="height: <!--$layoutHeight-->px;">
-			<table class="content" width="<!--$contentWidth-->" height="<!--$layoutHeight-->" <!--$tableReset--> style="width: <!--$contentWidth-->px; height: <!--$layoutHeight-->px;">
+<!-- $layoutHeight 174 -->
+	<layout label="Letter Paragraph, Wrapping Image at Left">
+		<tr class="letter-block letter-img_left">
+		<td width="<!--$containerWidth-->" height="<!--$layoutHeight-->" style="height: <!--$layoutHeight-->px;">
+			<table class="content" width="<!--$contentWidth-->" <!--$tableReset--> style="width: <!--$contentWidth-->px">
 				<tr>
-					<td width="<!--$contentWidth-->" height="<!--$layoutHeight-->" style="width: <!--$contentWidth-->px;">
+					<td width="<!--$contentWidth-->">
+						<img class="inline-img-left" align="left" label="Image <!--$imgWidth50-->px Wide" src="http://placehold.it/<!--$imgWidth50-->x<!--$imgHeight-->/?text=<!--$imgWidth50-->+Wide" width="<!--$imgWidth50-->" editable />
 						<multiline label="Text (don't split paragraphs)">
 							<p><strong>Dear [firstname,fallback=Zija Subscriber],</strong></p>
 							<p>&nbsp;</p>
