@@ -3,29 +3,27 @@
 -->
 	<tr class="links">
 	<td>
-		<table <!--$tableReset-->  width="<!--$contentWidth-->" height="<!--$navHeight-->" style="width: <!--$contentWidth-->px; height: <!--$navHeight-->px; border-top:2px solid #79b842;">
+		<table <!--$tableReset--> class="footer-links" width="<!--$contentWidth-->" height="<!--$navHeight-->" style="width: <!--$contentWidth-->px; height: <!--$navHeight-->px;">
 			<tr>
 				<td width="224px">
-					<a href="<!--$t_privacyPolicyLink-->"><!--$t_privacyPolicy--></a>&nbsp;&nbsp;
-					<a href="<!--$t_termsOfUseLink-->"><!--$t_termsOfUse--></a>
+					<a href="<!--$t_privacyPolicyLink-->" style="color:<!--$white-->"><!--$t_privacyPolicy--></a>&nbsp;&nbsp;
+					<a href="<!--$t_termsOfUseLink-->" style="color:<!--$white-->"><!--$t_termsOfUse--></a>
 				</td>
 				<td width="336px" align="right" style="text-align:right;">
-					<!--$t_copyright-->
+					<span style="margin:0; font-weight:bold; font-size:1.3em; color:<!--$white-->">Share This Email
+					<a href="<!--$t_facebookLink -->" style="text-decoration: none;"><img src="<!--$imgPath-->icon-facebook.png" alt="<!--$t_facebookAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" /></a>
+					<a href="<!--$t_twitterLink  -->" style="text-decoration: none;"><img src="<!--$imgPath-->icon-twitter.png"  alt="<!--$t_twitterAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" /></a>
+					<a href="<!--$t_instagramLink-->" style="text-decoration: none;"><img src="<!--$imgPath-->icon-instagram.png" alt="<!--$t_instagramAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" /></a>
+					</span>
 				</td>
 			</tr>
 		</table>
 		<table <!--$tableReset-->  width="<!--$contentWidth-->" height="<!--$navHeight-->" style="width: <!--$contentWidth-->px; height: <!--$navHeight-->px;">
 			<tr>
-				<td width="336px">
-					<ul style="list-style:none; padding-left:0;">
-						<li><!--$t_disclaimer--> <a href="<!--$t_contactLink-->"><!-- $t_contact --></a><!--$t_disclaimerEnd--></li><br />
-						<li><unsubscribe><!--$t_unsubscribe--></unsubscribe></li>
-					</ul>
-				</td>
-				<td width="224px" align="right" style="text-align:right;">
-					<h4 style="margin:0;">Share This Email</h4>
-					<fblike title="<!--$t_facebookLikeAlt-->" style="text-decoration: none;"><img src="<!--$imgPath-->icon-circle-facebook.png" alt="<!--$t_facebookLikeAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" /></fblike>
-					<tweet  title="<!--$t_twitterTweetAlt-->" style="text-decoration: none;"><img src="<!--$imgPath-->icon-circle-twitter.png"  alt="<!--$t_twitterTweetAlt-->" width="<!--$socialIconImgWidth-->" height="<!--$socialIconImgWidth-->" /></tweet>
+				<td align="center">
+					<span><!--$t_copyright--> <!--$t_disclaimer--> <a href="<!--$t_contactLink-->"><!-- $t_contact --></a><!--$t_disclaimerEnd--><br>
+					<unsubscribe><!--$t_unsubscribe--></unsubscribe></span><br><br>
+					<img src="<!--$imgPath-->zija-logo-footer.png">
 				</td>
 			</tr>
 		</table>
